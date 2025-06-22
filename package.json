@@ -1,0 +1,21 @@
+{
+  "name": "midnight-koi",
+  "displayName": "midnight-koi",
+  "description": "cozy dark mode theme made by @scottydotcom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "midnight-koi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-koi-color-theme.json"
+      }
+    ]
+  }
+}
