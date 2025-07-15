@@ -19,15 +19,15 @@
     "debugToolBar.background": "#8C92AC", // done - color of debug toolbar
     "diffEditor.insertedTextBackground": "#7391C815", // done - color of added text in diff editor
     "diffEditor.removedTextBackground": "#38337920", // done - color of removed text in diff editor
-    "dropdown.background": "#131419",
-    "dropdown.foreground": "#7391C8",
-    "dropdown.border": "#7391c8",
-    "editor.background": "#131419",
-    "editor.findMatchBackground": "#131419",
-    "editor.findMatchBorder": "#131419",
-    "editor.findMatchHighlightBackground": "#13141993",
-    "editor.findMatchHighlightBorder": "#CCD6F630",
-    "editor.foreground": "#7391C8",
+    "dropdown.background": "#131419", // done - color of dropdown menus (terminal chooser)
+    "dropdown.foreground": "#7391C8", // done - color of text in dropdown menus
+    "dropdown.border": "#7391c8", // done - color of border in dropdown menus
+    "editor.background": "#131419", // done - color of editor background
+    "editor.findMatchBackground": "#00000050", // done - color of highlighted search matches in editor
+    "editor.findMatchBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
+    "editor.findMatchHighlightBackground": "#464a5e93", // done - color of highlighted search matches in editor 
+    "editor.findMatchHighlightBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
+    "editor.foreground": "#CCD6F6", // done - color of text in editor
     "editor.lineHighlightBackground": "#13141950",
     "editor.selectionBackground": "#CCD6F6",
     "editor.selectionHighlightBackground": "#ccd6f650",
@@ -84,8 +84,8 @@
     "inputValidation.errorBorder": "#8892B050",
     "inputValidation.infoBorder": "#36374450",
     "inputValidation.warningBorder": "#CCD6F650",
-    // "list.activeSelectionBackground": "#DEB887",
-    // "list.activeSelectionForeground": "#DEB887",
+    // "list.activeSelectionBackground": "#DEB887", // file exploer hover color and text color
+    // "list.activeSelectionForeground": "#7f6ab8",
     "list.focusBackground": "#ccd6f6",
     "list.focusForeground": "#7391C8",
     "list.highlightForeground": "#131419",
