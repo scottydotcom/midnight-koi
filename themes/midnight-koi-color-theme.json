@@ -28,13 +28,13 @@
     "editor.findMatchHighlightBackground": "#464a5e93", // done - color of highlighted search matches in editor 
     "editor.findMatchHighlightBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
     "editor.foreground": "#CCD6F6", // done - color of text in editor
-    "editor.lineHighlightBackground": "#13141950",
-    "editor.selectionBackground": "#CCD6F6",
-    "editor.selectionHighlightBackground": "#ccd6f650",
-    "editor.selectionHighlightBorder": "#6F8865",
-    "editorBracketMatch.background": "#131419",
-    "editorBracketMatch.border": "#CCD6F67f",
-    "editorCursor.foreground": "#CCD6F6",
+    "editor.lineHighlightBackground": "#000000C0", // done - color of line highlight in editor
+    "editor.selectionBackground": "#576370c0", // done - color of highlighted text in editor
+    "editor.selectionHighlightBackground": "#ccd6f650", // done - color of highlighted text in editor
+    "editor.selectionHighlightBorder": "#6F8865", // done - color of border around highlighted text in editor
+    "editorBracketMatch.background": "#131419", // done - color of matching brackets in editor
+    "editorBracketMatch.border": "#7191fc", // done - color of border around matching brackets in editor
+    "editorCursor.foreground": "#CCD6F6", // done - color of cursor in editor
   
     "editorError.foreground": "#8892B070",
     "editorGroup.border": "#363744",
@@ -77,7 +77,7 @@
     "gitDecoration.untrackedResourceForeground": "#363744",
     "input.background": "#1C1D24",
     "input.border": "#CCD6F610",
-    "input.foreground": "#7391C8",
+    "input.foreground": "#CCD6F6",
     "input.placeholderForeground": "#7391C860",
     "inputOption.activeBackground": "#7391C830",
     "inputOption.activeBorder": "#7391C830",
