@@ -36,20 +36,20 @@
     "editorBracketMatch.border": "#7191fc", // done - color of border around matching brackets in editor
     "editorCursor.foreground": "#CCD6F6", // done - color of cursor in editor
   
-    "editorError.foreground": "#8892B070",
-    "editorGroup.border": "#363744",
-    "editorGroupHeader.tabsBackground": "#131419",
-    "editorGutter.addedBackground": "#7391C860",
-    "editorGutter.deletedBackground": "#8892B060",
-    "editorGutter.modifiedBackground": "#36374460",
-    "editorHoverWidget.background": "#131419",
-    "editorHoverWidget.border": "#CCD6F610",
-    "editorIndentGuide.activeBackground1": "#6F8865",
-    "editorIndentGuide.background1": "#ccd6f6",
-    "editorInfo.foreground": "#6F8865",
-    "editorLineNumber.activeForeground": "#6F8865",
-    "editorLineNumber.foreground": "#6F8865",
-    "editorLink.activeForeground": "#7391C8",
+    "editorError.foreground": "#ff0000", // color of error in terminal/underline
+    "editorGroup.border": "#CCD6F6", // done - color of border around editor groups
+    "editorGroupHeader.tabsBackground": "#131419", // done - color of editor group header background
+    "editorGutter.addedBackground": "#587dc060", // done - color of added lines in editor gutter
+    "editorGutter.deletedBackground": "#be4343", // done - color of deleted lines in editor gutter
+    "editorGutter.modifiedBackground": "#5fa0b4", // done - color of modified lines in editor gutter
+    "editorHoverWidget.background": "#131419", // done - color of hover widget background
+    "editorHoverWidget.border": "#c0c4cf", // done - color of hover widget border
+    "editorIndentGuide.activeBackground1": "#d8bd9c", // done - color of active indent guide in editor
+    "editorIndentGuide.background1": "#8892b0", // done - color of inactive indent guide in editor
+    "editorInfo.foreground": "#576490", // done - color of info in terminal/underline
+    "editorLineNumber.activeForeground": "#FFB26F", // done - color of active line number in editor
+    "editorLineNumber.foreground": "#8C92AC", // done - color of line numbers in editor
+    "editorLink.activeForeground": "#007ACC", // done - color of active links in editor
     "editorMarkerNavigation.background": "#7391C805",
     "editorOverviewRuler.border": "#131419",
     "editorOverviewRuler.errorForeground": "#6F8865",
@@ -57,7 +57,7 @@
     "editorOverviewRuler.infoForeground": "#6F8865",
     "editorOverviewRuler.warningForeground": "#CCD6F670",
     "editorRuler.foreground": "#363744",
-    "editorSuggestWidget.background": "#131419",
+    "editorSuggestWidget.background": "#babcc7",
     "editorSuggestWidget.border": "#CCD6F610",
     "editorSuggestWidget.foreground": "#7391C8",
     "editorSuggestWidget.highlightForeground": "#CCD6F6",
@@ -606,14 +606,14 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#6F8865",
+        "foreground": "#6F8865", // .md text color alt #658788
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["markup.underline"],
       "settings": {
-        "foreground": "#6F8865",
+        "foreground": "#acda9a", // .md link color
         "fontStyle": "underline"
       }
     },
