@@ -58,19 +58,19 @@
     "editorOverviewRuler.warningForeground": "#FFA500", // done - color of warning in overview ruler
     "editorRuler.foreground": "#3042ca", // done - color of ruler in editor
     "editorSuggestWidget.background": "#1c1d24", // done - color of suggest widget background
-    "editorSuggestWidget.border": "#CCD6F610",
-    "editorSuggestWidget.foreground": "#7391C8",
-    "editorSuggestWidget.highlightForeground": "#CCD6F6",
-    "editorSuggestWidget.selectedBackground": "#13141920",
-    "editorWarning.foreground": "#7391C8",
-    "editorWhitespace.foreground": "#7391C840",
-    "editorWidget.background": "#131419",
-    "editorWidget.border": "#CCD6F6",
-    "editorWidget.resizeBorder": "#131419",
-    "extensionButton.prominentBackground": "#7391C890",
-    "extensionButton.prominentHoverBackground": "#8892B0",
-    "focusBorder": "#CCD6F600",
-    "gitDecoration.conflictingResourceForeground": "#CCD6F6",
+    "editorSuggestWidget.border": "#CCD6F610", // done - color of suggest widget border
+    "editorSuggestWidget.foreground": "#d1925f", // done - color of text in suggest widget
+    "editorSuggestWidget.highlightForeground": "#CCD6F6", // done - color of highlighted text in suggest widget
+    "editorSuggestWidget.selectedBackground": "#8C92AC", // done - color of selected item in suggest widget
+    "editorWarning.foreground": "#7391C8", // done - color of warning in terminal/underline
+    "editorWhitespace.foreground": "#7391C840", // done - color of whitespace in editor
+    "editorWidget.background": "#131419", // done - color of editor widget background
+    "editorWidget.border": "#CCD6F6", // done - color of editor widget border
+    "editorWidget.resizeBorder": "#131419", // done - color of editor widget resize border
+    "extensionButton.prominentBackground": "#7391C890", // done - color of prominent extension button background
+    "extensionButton.prominentHoverBackground": "#8892B0", // done - color of prominent extension button hover background
+    "focusBorder": "#CCD6F600", // done - color of focus border
+    "gitDecoration.conflictingResourceForeground": "#CCD6F6", // done - color of conflicting resources in git decoration
     "gitDecoration.deletedResourceForeground": "#8892B0",
     "gitDecoration.ignoredResourceForeground": "#131419",
     "gitDecoration.modifiedResourceForeground": "#1C1D24",
