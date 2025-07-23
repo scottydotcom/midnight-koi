@@ -71,10 +71,10 @@
     "extensionButton.prominentHoverBackground": "#8892B0", // done - color of prominent extension button hover background
     "focusBorder": "#CCD6F600", // done - color of focus border
     "gitDecoration.conflictingResourceForeground": "#CCD6F6", // done - color of conflicting resources in git decoration
-    "gitDecoration.deletedResourceForeground": "#8892B0",
-    "gitDecoration.ignoredResourceForeground": "#131419",
-    "gitDecoration.modifiedResourceForeground": "#1C1D24",
-    "gitDecoration.untrackedResourceForeground": "#363744",
+    "gitDecoration.deletedResourceForeground": "#8892B0", // done - color of deleted resources in git decoration
+    "gitDecoration.ignoredResourceForeground": "#131419", // done - color of ignored resources in git decoration
+    "gitDecoration.modifiedResourceForeground": "#1C1D24",  // done - color of modified resources in git decoration
+    "gitDecoration.untrackedResourceForeground": "#363744", // done - color of untracked resources in git decoration
     "input.background": "#1C1D24",
     "input.border": "#CCD6F610",
     "input.foreground": "#CCD6F6",
