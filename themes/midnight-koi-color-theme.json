@@ -3,11 +3,11 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#131419", // done - bg of src control
-    "activityBar.border": "#8892b0", // done - divider line in activity bar
+    "activityBar.border": "#363744", // done - divider line in activity bar
     "activityBar.foreground": "#7391C8", // done - src control icon color
     "activityBarBadge.background": "#657C6A", // done - badge color in activity bar (soiurce control)
     "activityBarBadge.foreground": "#ccd6f6", // done - src control notif text color
-    "badge.background": "#ce8080", // done - changes color in src ctrl - alt color: #bd7070
+    "badge.background": "#ce8080", // done - changes color of badge in src ctrl - alt color: #bd7070
     "badge.foreground": "#ccd6f6", // done - text color on bades in src ctrl
     "breadcrumb.activeSelectionForeground": "#ccd6f6", // done - color of selected item in breadcrumb
     "breadcrumb.background": "#131419", // done - color of breadcrumb file path
@@ -15,19 +15,19 @@
     "breadcrumb.foreground": "#7391C8", // done - color of breadcrumb text
     "breadcrumbPicker.background": "#131419", // done - bg color of breadcrumb picker
     "button.background": "#8C92AC", // done - color of button (src ctrl commit)
-    "contrastBorder": "#8892b0", // done - color of contrast border (lines separating sections)
+    "contrastBorder": "#363744", // done - color of contrast border (lines separating sections)
     "debugToolBar.background": "#8C92AC", // done - color of debug toolbar
     "diffEditor.insertedTextBackground": "#7391C815", // done - color of added text in diff editor
     "diffEditor.removedTextBackground": "#38337920", // done - color of removed text in diff editor
     "dropdown.background": "#131419", // done - color of dropdown menus (terminal chooser)
     "dropdown.foreground": "#7391C8", // done - color of text in dropdown menus
-    "dropdown.border": "#7391c8", // done - color of border in dropdown menus
+    "dropdown.border": "#8892b0", // done - color of border in dropdown menus
     "editor.background": "#131419", // done - color of editor background
     "editor.findMatchBackground": "#00000050", // done - color of highlighted search matches in editor
     "editor.findMatchBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
     "editor.findMatchHighlightBackground": "#464a5e93", // done - color of highlighted search matches in editor
     "editor.findMatchHighlightBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
-    "editor.foreground": "#CCD6F6", // done - color of text in editor
+    "editor.foreground": "#BBBBBB", // done - color of text in editor !string
     "editor.lineHighlightBackground": "#000000C0", // done - color of line highlight in editor
     "editor.selectionBackground": "#576370c0", // done - color of highlighted text in editor
     "editor.selectionHighlightBackground": "#ccd6f650", // done - color of highlighted text in editor
@@ -35,17 +35,17 @@
     "editorBracketMatch.background": "#131419", // done - color of matching brackets in editor
     "editorBracketMatch.border": "#7191fc", // done - color of border around matching brackets in editor
     "editorCursor.foreground": "#CCD6F6", // done - color of cursor in editor
-
+    "editor.placeholder.foreground": "#7391C860", // done - color of placeholder text in editor
     "editorError.foreground": "#ff0000", // color of error in terminal/underline
-    "editorGroup.border": "#CCD6F6", // done - color of border around editor groups
+    "editorGroup.border": "#363744", // done - color of border around editor groups
     "editorGroupHeader.tabsBackground": "#131419", // done - color of editor group header background
     "editorGutter.addedBackground": "#587dc060", // done - color of added lines in editor gutter
     "editorGutter.deletedBackground": "#be4343", // done - color of deleted lines in editor gutter
     "editorGutter.modifiedBackground": "#5fa0b4", // done - color of modified lines in editor gutter
     "editorHoverWidget.background": "#131419", // done - color of hover widget background
     "editorHoverWidget.border": "#c0c4cf", // done - color of hover widget border
-    "editorIndentGuide.activeBackground1": "#d8bd9c", // done - color of active indent guide in editor
-    "editorIndentGuide.background1": "#8892b0", // done - color of inactive indent guide in editor
+    "editorIndentGuide.activeBackground1": "#a59cd8", // done - color of active indent guide in editor
+    "editorIndentGuide.background1": "#363744", // done - color of inactive indent guide in editor
     "editorInfo.foreground": "#576490", // done - color of info in terminal/underline
     "editorLineNumber.activeForeground": "#FFB26F", // done - color of active line number in editor
     "editorLineNumber.foreground": "#8C92AC", // done - color of line numbers in editor
@@ -65,7 +65,7 @@
     "editorWarning.foreground": "#7391C8", // done - color of warning in terminal/underline
     "editorWhitespace.foreground": "#7391C840", // done - color of whitespace in editor
     "editorWidget.background": "#131419", // done - color of editor widget background
-    "editorWidget.border": "#CCD6F6", // done - color of editor widget border
+    "editorWidget.border": "#363744", // done - color of editor widget border
     "editorWidget.resizeBorder": "#131419", // done - color of editor widget resize border
     "extensionButton.prominentBackground": "#7391C890", // done - color of prominent extension button background
     "extensionButton.prominentHoverBackground": "#8892B0", // done - color of prominent extension button hover background
@@ -73,7 +73,7 @@
     "gitDecoration.conflictingResourceForeground": "#CCD6F6", // done - color of conflicting resources in git decoration
     "gitDecoration.deletedResourceForeground": "#8892B0", // done - color of deleted resources in git decoration
     "gitDecoration.ignoredResourceForeground": "#131419", // done - color of ignored resources in git decoration
-    "gitDecoration.modifiedResourceForeground": "#1C1D24",  // done - color of modified resources in git decoration
+    "gitDecoration.modifiedResourceForeground": "#2036e0",  // done - color of modified resources in git decoration
     "gitDecoration.untrackedResourceForeground": "#363744", // done - color of untracked resources in git decoration
     "input.background": "#1C1D24", // done - color of input fields background
     "input.border": "#CCD6F610",  // done - color of input fields border
@@ -83,7 +83,7 @@
     "inputOption.activeBorder": "#7391C830", // done - color of active input option border
     "inputValidation.errorBorder": "#8892B050", // done - color of error border in input validation
     "inputValidation.infoBorder": "#36374450", // done - color of info border in input validation
-    "inputValidation.warningBorder": "#CCD6F650", // done - color of warning border in input validation
+    "inputValidation.warningBorder": "#CCD6F650",
     // "list.activeSelectionBackground": "#DEB887", // file exploer hover color and text color
     // "list.activeSelectionForeground": "#7f6ab8",
     "list.focusBackground": "#ccd6f6",
@@ -165,12 +165,12 @@
     "statusBarItem.remoteBackground": "#131419",
     "statusBarItem.remoteForeground": "#7391C8",
     "tab.activeBackground": "#13141950", //file tab
-    "tab.activeBorder": "#7391c8",
+    "tab.activeBorder": "#8892b0",
     "tab.activeForeground": "#CCD6F6", // file tab name when cllicked
     "tab.activeModifiedBorder": "#131419",
-    "tab.border": "#131419",
+    "tab.border": "#363744",
     "tab.inactiveBackground": "#13141920",
-    "tab.inactiveForeground": "#7391C8af",
+    "tab.inactiveForeground": "#7391C8",
     "tab.unfocusedActiveBorder": "#131419",
     "tab.unfocusedActiveBackground": "#13141940",
     "tab.unfocusedActiveForeground": "#7391C8",
