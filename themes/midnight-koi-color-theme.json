@@ -70,20 +70,20 @@
     "extensionButton.prominentBackground": "#7391C890", // done - color of prominent extension button background
     "extensionButton.prominentHoverBackground": "#8892B0", // done - color of prominent extension button hover background
     "focusBorder": "#CCD6F600", // done - color of focus border
-    "gitDecoration.conflictingResourceForeground": "#CCD6F6", // done - color of conflicting resources in git decoration
-    "gitDecoration.deletedResourceForeground": "#8892B0", // done - color of deleted resources in git decoration
-    "gitDecoration.ignoredResourceForeground": "#131419", // done - color of ignored resources in git decoration
-    "gitDecoration.modifiedResourceForeground": "#2036e0",  // done - color of modified resources in git decoration
-    "gitDecoration.untrackedResourceForeground": "#363744", // done - color of untracked resources in git decoration
+    "gitDecoration.conflictingResourceForeground": "#ff6b6b", // done - color of conflicting resources in git decoration
+    "gitDecoration.deletedResourceForeground": "#c45c54", // done - color of deleted resources in git decoration
+    "gitDecoration.ignoredResourceForeground": "#7a8b78", // done - color of ignored resources in git decoration
+    "gitDecoration.modifiedResourceForeground": "#6aacc6",  // done - color of modified resources in git decoration
+    "gitDecoration.untrackedResourceForeground": "#f8dc81", // done - color of untracked resources in git decoration
     "input.background": "#1C1D24", // done - color of input fields background
     "input.border": "#CCD6F610",  // done - color of input fields border
     "input.foreground": "#CCD6F6", // done - color of text in input fields
     "input.placeholderForeground": "#7391C860", // done - color of placeholder text in input fields
     "inputOption.activeBackground": "#7391C830", // done - color of active input option background
     "inputOption.activeBorder": "#7391C830", // done - color of active input option border
-    "inputValidation.errorBorder": "#8892B050", // done - color of error border in input validation
-    "inputValidation.infoBorder": "#36374450", // done - color of info border in input validation
-    "inputValidation.warningBorder": "#CCD6F650",
+    "inputValidation.errorBorder": "#ff9a9a", // done - color of error border in input validation - add 50 to mute the color
+    "inputValidation.infoBorder": "#a0c4ff", // done - color of info border in input validation - add 50 to mute the color
+    "inputValidation.warningBorder": "#ffcc7a", // done - color of warning border in input validation - add 50 to mute the color
     // "list.activeSelectionBackground": "#DEB887", // file exploer hover color and text color
     // "list.activeSelectionForeground": "#7f6ab8",
     "list.focusBackground": "#ccd6f6",
