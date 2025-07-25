@@ -84,20 +84,20 @@
     "inputValidation.errorBorder": "#ff9a9a", // done - color of error border in input validation - add 50 to mute the color
     "inputValidation.infoBorder": "#a0c4ff", // done - color of info border in input validation - add 50 to mute the color
     "inputValidation.warningBorder": "#ffcc7a", // done - color of warning border in input validation - add 50 to mute the color
-    // "list.activeSelectionBackground": "#DEB887", // file exploer hover color and text color
-    // "list.activeSelectionForeground": "#7f6ab8",
-    "list.focusBackground": "#ccd6f6",
-    "list.focusForeground": "#7391C8",
-    "list.highlightForeground": "#131419",
-    "list.hoverBackground": "#363744",
-    "list.hoverForeground": "#CCD6F6",
-    "list.inactiveSelectionBackground": "#13141930",
-    "list.inactiveSelectionForeground": "#131419",
-    "list.warningForeground": "#CCD6F6",
-    "listFilterWidget.background": "#13141930",
-    "listFilterWidget.noMatchesOutline": "#13141930",
-    "listFilterWidget.outline": "#13141930",
-    "menu.background": "#131419f8",
+    "list.activeSelectionBackground": "#7391C830", // done - file exploer file selected text color
+    "list.activeSelectionForeground": "#bb906e", // done - file explorer file selected text color
+    "list.focusBackground": "#7391C830", // done - file explorer file hover color (using arrow keys)
+    "list.focusForeground": "#8C92AC", // done - file explorer text color (using arrow keys)
+    "list.highlightForeground": "#ccb197", // done - file explorer highlighted match text color
+    "list.hoverBackground": "#7391C830", // done - file explorer file hover color
+    "list.hoverForeground": "#9e644f", // done - file explorer file hover text color
+    "list.inactiveSelectionBackground": "#131419", // done - file explorer inactive selection background color
+    "list.inactiveSelectionForeground": "#a5a9af", // done - file explorer inactive selection text color
+    "list.warningForeground": "#ff6b6b", // 
+    "listFilterWidget.background": "#13141930", // done - color of filter widget background
+    "listFilterWidget.noMatchesOutline": "#13141930", // done - color of no matches outline in filter widget
+    "listFilterWidget.outline": "#13141930", // done - color of outline in filter widget
+    "menu.background": "#131419f8", // done - color of menu background
     "menu.border": "#13141950",
     "menu.foreground": "#7391C8",
     "menu.selectionBackground": "#1C1D24",
@@ -142,7 +142,7 @@
     "settings.checkboxForeground": "#7391C8",
     "settings.dropdownBackground": "#131419",
     "settings.dropdownForeground": "#7391C8",
-    "settings.headerForeground": "#131419",
+    "settings.headerForeground": "#92b1b1", // done - color of settings header text
     "settings.modifiedItemIndicator": "#131419",
     "settings.numberInputBackground": "#131419",
     "settings.numberInputForeground": "#7391C8",
@@ -329,7 +329,7 @@
     {
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#8892b0" //basic html font 6F8865
+        "foreground": "#BBBBBB" //basic html font 6F8865
       }
     },
     {
