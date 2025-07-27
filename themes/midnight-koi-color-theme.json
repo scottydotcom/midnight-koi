@@ -114,42 +114,42 @@
     "minimapSlider.activeBackground": "#7391C8b0", // done - color of active minimap slider background
     "minimapSlider.background": "#7391C880", // done - color of minimap slider background
     "minimapSlider.hoverBackground": "#7391C8a0", // done - color of minimap slider hover background
-    "notificationLink.foreground": "#131419",
-    "notifications.background": "#131419",
-    "notifications.foreground": "#7391C8",
-    "panel.background": "#131419",
-    "panel.border": "#363744",
-    "panelTitle.activeBorder": "#131419",
-    "panelTitle.activeForeground": "#CCD6F6",
-    "panelTitle.inactiveForeground": "#7391C8",
-    "peekView.border": "#13141930",
-    "peekViewEditor.background": "#7391C805",
-    "peekViewEditor.matchHighlightBackground": "#13141950",
-    "peekViewEditorGutter.background": "#7391C805",
-    "peekViewResult.background": "#7391C805",
-    "peekViewResult.matchHighlightBackground": "#13141950",
-    "peekViewResult.selectionBackground": "#13141970",
-    "peekViewTitle.background": "#7391C805",
-    "peekViewTitleDescription.foreground": "#7391C860",
-    "pickerGroup.foreground": "#131419",
-    "progressBar.background": "#131419",
-    "scrollbar.shadow": "#13141900",
-    "scrollbarSlider.activeBackground": "#7391C8",
-    "scrollbarSlider.background": "#9cb5e4",
-    "scrollbarSlider.hoverBackground": "#131419ee",
-    "selection.background": "#131419",
-    "settings.checkboxBackground": "#131419",
-    "settings.checkboxForeground": "#7391C8",
-    "settings.dropdownBackground": "#131419",
-    "settings.dropdownForeground": "#7391C8",
+    "notificationLink.foreground": "#CCD6F6", // done - color of notification links
+    "notifications.background": "#131419",  // done - color of notification background
+    "notifications.foreground": "#7391C8",  // done - color of notification text
+    "panel.background": "#131419", // done - color of panel background terminal
+    "panel.border": "#363744", // done - color of panel border terminal
+    "panelTitle.activeBorder": "#ddc6a8", // done - color of active panel title border
+    "panelTitle.activeForeground": "#CCD6F6", // done - color of active panel title text
+    "panelTitle.inactiveForeground": "#7391C8", // done - color of inactive panel title text
+    "peekView.border": "#1a32ac", // done - color of peek view border
+    "peekViewEditor.background": "#7391C805",  // done - color of peek view editor background
+    "peekViewEditor.matchHighlightBackground": "#13141950", // done - color of peek view editor match highlight background
+    "peekViewEditorGutter.background": "#7391C805", // done - color of peek view editor gutter background
+    "peekViewResult.background": "#7391C805", // done - color of peek view result background
+    "peekViewResult.matchHighlightBackground": "#13141950", // done - color of peek view result match highlight background
+    "peekViewResult.selectionBackground": "#13141970", // done - color of peek view result selection background
+    "peekViewTitle.background": "#7391C805", // done - color of peek view title background
+    "peekViewTitleDescription.foreground": "#7391C860", // done - color of peek view title description text
+    "pickerGroup.foreground": "#131419", // done - color of picker group foreground
+    "progressBar.background": "#131419", // done - color of progress bar background
+    "scrollbar.shadow": "#13141900", // done - color of scrollbar shadow 
+    "scrollbarSlider.activeBackground": "#ffffff", // done - color of active scrollbar slider background
+    "scrollbarSlider.background": "#7391C860", // done - color of scrollbar slider background
+    "scrollbarSlider.hoverBackground": "#7391C830", // done - color of scrollbar slider hover background
+    "selection.background": "#131419", // done - color of selection background
+    "settings.checkboxBackground": "#131419", // done - color of settings checkbox background
+    "settings.checkboxForeground": "#7391C8", // done - color of settings checkbox text
+    "settings.dropdownBackground": "#131419", // done - color of settings dropdown background
+    "settings.dropdownForeground": "#7391C8", // done - color of settings dropdown text
     "settings.headerForeground": "#92b1b1", // done - color of settings header text
-    "settings.modifiedItemIndicator": "#131419",
-    "settings.numberInputBackground": "#131419",
-    "settings.numberInputForeground": "#7391C8",
-    "settings.textInputBackground": "#131419",
-    "settings.textInputForeground": "#7391C8",
-    "sideBar.background": "#131419",
-    "sideBar.border": "#363744",
+    "settings.modifiedItemIndicator": "#131419", // done - color of modified item indicator in settings
+    "settings.numberInputBackground": "#131419", // done - color of settings number input background
+    "settings.numberInputForeground": "#7391C8", // done - color of settings number input text
+    "settings.textInputBackground": "#131419", // done - color of settings text input background
+    "settings.textInputForeground": "#7391C8", // done - color of settings text input text
+    "sideBar.background": "#131419", // done - color of side bar background
+    "sideBar.border": "#363744", // done - color of side bar border
     "sideBar.foreground": "#b1a192", // color of the side bar text
     "sideBarSectionHeader.background": "#131419",
     "sideBarSectionHeader.border": "#363744",
