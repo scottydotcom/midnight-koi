@@ -73,10 +73,10 @@
     "gitDecoration.conflictingResourceForeground": "#ff6b6b", // done - color of conflicting resources in git decoration
     "gitDecoration.deletedResourceForeground": "#c45c54", // done - color of deleted resources in git decoration
     "gitDecoration.ignoredResourceForeground": "#7a8b78", // done - color of ignored resources in git decoration
-    "gitDecoration.modifiedResourceForeground": "#6aacc6",  // done - color of modified resources in git decoration
+    "gitDecoration.modifiedResourceForeground": "#6aacc6", // done - color of modified resources in git decoration
     "gitDecoration.untrackedResourceForeground": "#f8dc81", // done - color of untracked resources in git decoration
     "input.background": "#1C1D24", // done - color of input fields background
-    "input.border": "#CCD6F610",  // done - color of input fields border
+    "input.border": "#CCD6F610", // done - color of input fields border
     "input.foreground": "#CCD6F6", // done - color of text in input fields
     "input.placeholderForeground": "#7391C860", // done - color of placeholder text in input fields
     "inputOption.activeBackground": "#7391C830", // done - color of active input option background
@@ -93,27 +93,27 @@
     "list.hoverForeground": "#9e644f", // done - file explorer file hover text color
     "list.inactiveSelectionBackground": "#131419", // done - file explorer inactive selection background color
     "list.inactiveSelectionForeground": "#a5a9af", // done - file explorer inactive selection text color
-    "list.warningForeground": "#ff6b6b", // 
+    "list.warningForeground": "#ff6b6b", //
     "listFilterWidget.background": "#13141930", // done - color of filter widget background
     "listFilterWidget.noMatchesOutline": "#13141930", // done - color of no matches outline in filter widget
     "listFilterWidget.outline": "#13141930", // done - color of outline in filter widget
     "menu.background": "#131419f8", // done - color of menu background
-    "menu.border": "#13141950",
-    "menu.foreground": "#7391C8",
-    "menu.selectionBackground": "#1C1D24",
-    "menu.selectionBorder": "#13141930",
-    "menu.selectionForeground": "#7391C8",
-    "menu.separatorBackground": "#7391C8",
-    "menubar.selectionBackground": "#1C1D24",
-    "menubar.selectionBorder": "#13141950",
-    "menubar.selectionForeground": "#7391C8",
-    "minimap.background": "#131419",
-    "minimapGutter.addedBackground": "#8892B0",
-    "minimapGutter.deletedBackground": "#CCD6F6",
-    "minimapGutter.modifiedBackground": "#7391C8",
-    "minimapSlider.activeBackground": "#7391C8b0",
-    "minimapSlider.background": "#7391C880",
-    "minimapSlider.hoverBackground": "#7391C8a0",
+    "menu.border": "#13141950", // done - color of menu border
+    "menu.foreground": "#CCD6F6", // done - color of text in menu
+    "menu.selectionBackground": "#1C1D24", // done - color of selected item in menu 
+    "menu.selectionBorder": "#13141930", // done - color of border around selected item in menu
+    "menu.selectionForeground": "#7391C8", // done - color of text in selected item in menu
+    "menu.separatorBackground": "#8C92AC", // done - color of separator in menu  
+    "menubar.selectionBackground": "#1C1D24", // done - color of selected item in menubar
+    "menubar.selectionBorder": "#13141950", // done - color of border around selected item in menubar
+    "menubar.selectionForeground": "#7391C8", // done - color of text in selected item in menubar
+    "minimap.background": "#131419", // done - color of minimap background
+    "minimapGutter.addedBackground": "#8892B0", // done - color of added lines in minimap gutter
+    "minimapGutter.deletedBackground": "#c45c54", // done - color of deleted lines in minimap gutter  
+    "minimapGutter.modifiedBackground": "#6aacc6", // done - color of modified lines in minimap gutter
+    "minimapSlider.activeBackground": "#7391C8b0", // done - color of active minimap slider background
+    "minimapSlider.background": "#7391C880", // done - color of minimap slider background
+    "minimapSlider.hoverBackground": "#7391C8a0", // done - color of minimap slider hover background
     "notificationLink.foreground": "#131419",
     "notifications.background": "#131419",
     "notifications.foreground": "#7391C8",
@@ -179,13 +179,13 @@
     "terminal.ansiBlack": "#131419",
     "terminal.ansiBlue": "#363744",
     "terminal.ansiBrightBlack": "#131419",
-    "terminal.ansiBrightBlue": "#363744",
+    "terminal.ansiBrightBlue": "#398ec7",
     "terminal.ansiBrightCyan": "#6F8865", // color of repo name in terminal
     "terminal.ansiBrightGreen": "#7391C8",
-    "terminal.ansiBrightMagenta": "#FFD700",
-    "terminal.ansiBrightRed": "#8892B0",
+    "terminal.ansiBrightMagenta": "#4c00ff",
+    "terminal.ansiBrightRed": "#d36969",
     "terminal.ansiBrightWhite": "#FFD700",
-    "terminal.ansiBrightYellow": "#FFD700",
+    "terminal.ansiBrightYellow": "#1100ff",
     "terminal.ansiCyan": "#57586D",
     "terminal.ansiGreen": "#7391C8",
     "terminal.ansiMagenta": "#FFD700",
@@ -194,7 +194,7 @@
     "terminal.ansiYellow": "#FFD700",
     "terminalCursor.background": "#131419",
     "terminalCursor.foreground": "#CCD6F6",
-    "terminal.foreground": "#7391C8", // color of text in terminal (ex: git add .)
+    "terminal.foreground": "#8C92AC", // color of text in terminal (ex: git add .)
     "textLink.activeForeground": "#7391C8",
     "textLink.foreground": "#CCD6F6",
     "titleBar.activeBackground": "#131419",
