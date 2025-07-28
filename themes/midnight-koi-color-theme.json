@@ -153,29 +153,29 @@
     "sideBar.foreground": "#b1a192", // color of the side bar text
     "sideBarSectionHeader.background": "#131419", // done - color of side bar section header background
     "sideBarSectionHeader.border": "#363744", // done - color of side bar section header border
-    "sideBarSectionHeader.foreground": "#7391c8",
-    "sideBarTitle.foreground": "#7391C8",
-    "statusBar.background": "#131419",
-    "statusBar.border": "#363744",
-    "statusBar.debuggingBackground": "#CCD6F6",
-    "statusBar.debuggingForeground": "#CCD6F6",
-    "statusBar.foreground": "#7391C8",
-    "statusBar.noFolderBackground": "#7391C8",
-    "statusBarItem.hoverBackground": "#506181",
-    "statusBarItem.remoteBackground": "#131419",
-    "statusBarItem.remoteForeground": "#7391C8",
-    "tab.activeBackground": "#13141950", //file tab
-    "tab.activeBorder": "#8892b0",
+    "sideBarSectionHeader.foreground": "#abbadf", // done - color of side bar section header text
+    "sideBarTitle.foreground": "#7391C8", // done - color of side bar title text
+    "statusBar.background": "#131419", // done - color of status bar background
+    "statusBar.border": "#363744",  // done - color of status bar border
+    "statusBar.debuggingBackground": "#5183B6", // done - color of status bar when debugging
+    "statusBar.debuggingForeground": "#838FAB", // done - color of text in status bar when debugging
+    "statusBar.foreground": "#838FAB",  // done - color of text in status bar
+    "statusBar.noFolderBackground": "#7391C8", // done - color of status bar when no folder is open
+    "statusBarItem.hoverBackground": "#506181", //7391C820
+    "statusBarItem.remoteBackground": "#131419",  // done - color of status bar item when remote 
+    "statusBarItem.remoteForeground": "#7391C8", // done - color of text in status bar item when remote
+    "tab.activeBackground": "#13141950",  // done - color of active tab background
+    "tab.activeBorder": "#8892b0",  // done - color of active tab border
     "tab.activeForeground": "#CCD6F6", // file tab name when cllicked
-    "tab.activeModifiedBorder": "#131419",
-    "tab.border": "#363744",
-    "tab.inactiveBackground": "#13141920",
-    "tab.inactiveForeground": "#7391C8",
-    "tab.unfocusedActiveBorder": "#131419",
-    "tab.unfocusedActiveBackground": "#13141940",
-    "tab.unfocusedActiveForeground": "#7391C8",
-    "tab.unfocusedInactiveBackground": "#13141910",
-    "tab.unfocusedInactiveForeground": "#7391C87f",
+    "tab.activeModifiedBorder": "#131419",  // done - color of active modified tab border
+    "tab.border": "#363744", // done - color of tab border
+    "tab.inactiveBackground": "#13141920", // done - color of inactive tab background
+    "tab.inactiveForeground": "#7391C8", // done - color of inactive tab text
+    "tab.unfocusedActiveBorder": "#131419", // done - color of unfocused active tab border
+    "tab.unfocusedActiveBackground": "#13141940", // done - color of unfocused active tab background
+    "tab.unfocusedActiveForeground": "#7391C8", // done - color of unfocused active tab text
+    "tab.unfocusedInactiveBackground": "#13141910", // done - color of unfocused inactive tab background
+    "tab.unfocusedInactiveForeground": "#7391C87f", // done - color of unfocused inactive tab text            
     "terminal.ansiBlack": "#131419",
     "terminal.ansiBlue": "#363744",
     "terminal.ansiBrightBlack": "#131419",
@@ -197,13 +197,13 @@
     "terminal.foreground": "#8C92AC", // color of text in terminal (ex: git add .)
     "textLink.activeForeground": "#7391C8",
     "textLink.foreground": "#CCD6F6",
-    "titleBar.activeBackground": "#131419",
-    "titleBar.activeForeground": "#7391C8",
-    "titleBar.border": "#363744",
-    "titleBar.inactiveBackground": "#131419",
-    "titleBar.inactiveForeground": "#7391C8",
-    "tree.indentGuidesStroke": "#363744",
-    "widget.shadow": "#13141930"
+    "titleBar.activeBackground": "#131419", // done - color of title bar background
+    "titleBar.activeForeground": "#5183B6", // done - color of title bar text
+    "titleBar.border": "#363744", // done - color of title bar border
+    "titleBar.inactiveBackground": "#131419", // done - color of inactive title bar background
+    "titleBar.inactiveForeground": "#5183B6", // done - color of inactive title bar text
+    "tree.indentGuidesStroke": "#363744", // done - color of tree indent guides stroke
+    "widget.shadow": "#13141930" // done - color of widget shadow
   },
   "tokenColors": [
     {
