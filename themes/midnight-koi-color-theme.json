@@ -176,27 +176,27 @@
     "tab.unfocusedActiveForeground": "#7391C8", // done - color of unfocused active tab text
     "tab.unfocusedInactiveBackground": "#13141910", // done - color of unfocused inactive tab background
     "tab.unfocusedInactiveForeground": "#7391C87f", // done - color of unfocused inactive tab text            
-    "terminal.ansiBlack": "#131419",
-    "terminal.ansiBlue": "#363744",
-    "terminal.ansiBrightBlack": "#131419",
-    "terminal.ansiBrightBlue": "#398ec7",
-    "terminal.ansiBrightCyan": "#6F8865", // color of repo name in terminal
-    "terminal.ansiBrightGreen": "#7391C8",
-    "terminal.ansiBrightMagenta": "#4c00ff",
-    "terminal.ansiBrightRed": "#69d3ca",
-    "terminal.ansiBrightWhite": "#FFD700",
-    "terminal.ansiBrightYellow": "#1100ff",
-    "terminal.ansiCyan": "#6d6057",
-    "terminal.ansiGreen": "#7391C8",
-    "terminal.ansiMagenta": "#FFD700",
-    "terminal.ansiRed": "#8892B0",
-    "terminal.ansiWhite": "#FFD700",
-    "terminal.ansiYellow": "#FFD700",
-    "terminalCursor.background": "#131419",
-    "terminalCursor.foreground": "#CCD6F6",
-    "terminal.foreground": "#8C92AC", // color of text in terminal (ex: git add .)
-    "textLink.activeForeground": "#7391C8",
-    "textLink.foreground": "#CCD6F6",
+    "terminal.ansiBlack": "#363b54", // done - color of black text in terminal
+    "terminal.ansiRed": "#f7768e", // done - color of red text in terminal
+    "terminal.ansiGreen": "#73daca", // done - color of green text in terminal
+    "terminal.ansiYellow": "#e0af68", // done - color of yellow text in terminal
+    "terminal.ansiBlue": "#7aa2f7", // done - color of blue text in terminal
+    "terminal.ansiMagenta": "#bb9af7", // done - color of magenta text in terminal
+    "terminal.ansiCyan": "#5BAF96", // done - color of cyan text in terminal
+    "terminal.ansiWhite": "#787c99", // done - color of white text in terminal
+    "terminal.ansiBrightBlack": "#363b54", // done - color of bright black text in terminal
+    "terminal.ansiBrightRed": "#f7768e", // done - color of bright red text in terminal
+    "terminal.ansiBrightGreen": "#73daca", // done - color of bright green text in terminal
+    "terminal.ansiBrightYellow": "#e0af68", // done - color of bright yellow text in terminal
+    "terminal.ansiBrightBlue": "#7aa2f7", // done - color of bright blue text in terminal
+    "terminal.ansiBrightMagenta": "#bb9af7",  // done - color of bright magenta text in terminal
+    "terminal.ansiBrightCyan": "#5BAF96", // color of repo name in terminal
+    "terminal.ansiBrightWhite": "#acb0d0",  // done - color of bright white text in terminal
+    "terminalCursor.background": "#131419", // done - color of terminal cursor background
+    "terminalCursor.foreground": "#CCD6F6", // done - color of terminal cursor text
+    "terminal.foreground": "#787c99", // color of text in terminal (ex: git add .)
+    "textLink.activeForeground": "#7dcfff", // done - color of active text links
+    "textLink.foreground": "#6183bb", // done - color of text links
     "titleBar.activeBackground": "#131419", // done - color of title bar background
     "titleBar.activeForeground": "#5183B6", // done - color of title bar text
     "titleBar.border": "#363744", // done - color of title bar border
