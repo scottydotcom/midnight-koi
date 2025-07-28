@@ -28,7 +28,7 @@
     "editor.findMatchHighlightBackground": "#464a5e93", // done - color of highlighted search matches in editor
     "editor.findMatchHighlightBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
     "editor.foreground": "#BBBBBB", // done - color of text in editor !string
-    "editor.lineHighlightBackground": "#000000C0", // done - color of line highlight in editor
+    "editor.lineHighlightBackground": "#7391C820", // done - color of line highlight in editor
     "editor.selectionBackground": "#576370c0", // done - color of highlighted text in editor
     "editor.selectionHighlightBackground": "#ccd6f650", // done - color of highlighted text in editor
     "editor.selectionHighlightBorder": "#6F8865", // done - color of border around highlighted text in editor
@@ -51,12 +51,12 @@
     "editorLineNumber.foreground": "#8C92AC", // done - color of line numbers in editor
     "editorLink.activeForeground": "#007ACC", // done - color of active links in editor
     "editorMarkerNavigation.background": "#0e4ab905", // done - color of marker navigation background
-    "editorOverviewRuler.border": "#4a6fb4", // done - color of overview ruler border
+    "editorOverviewRuler.border": "#b44a4a", // done - color of scroll bar in terminal
     "editorOverviewRuler.errorForeground": "#40706c", // done - color of error in overview ruler
     "editorOverviewRuler.findMatchForeground": "#328c8d", // done - color of find matches in overview ruler
     "editorOverviewRuler.infoForeground": "#FF0000", // done - color of info in overview ruler
     "editorOverviewRuler.warningForeground": "#FFA500", // done - color of warning in overview ruler
-    "editorRuler.foreground": "#3042ca", // done - color of ruler in editor
+    "editorRuler.foreground": "#ca3030", // done - color of ruler in editor
     "editorSuggestWidget.background": "#1c1d24", // done - color of suggest widget background
     "editorSuggestWidget.border": "#CCD6F610", // done - color of suggest widget border
     "editorSuggestWidget.foreground": "#d1925f", // done - color of text in suggest widget
@@ -134,7 +134,7 @@
     "pickerGroup.foreground": "#131419", // done - color of picker group foreground
     "progressBar.background": "#131419", // done - color of progress bar background
     "scrollbar.shadow": "#13141900", // done - color of scrollbar shadow 
-    "scrollbarSlider.activeBackground": "#ffffff", // done - color of active scrollbar slider background
+    "scrollbarSlider.activeBackground": "#7391C860", // done - color of active scrollbar slider background
     "scrollbarSlider.background": "#7391C860", // done - color of scrollbar slider background
     "scrollbarSlider.hoverBackground": "#7391C830", // done - color of scrollbar slider hover background
     "selection.background": "#131419", // done - color of selection background
@@ -151,8 +151,8 @@
     "sideBar.background": "#131419", // done - color of side bar background
     "sideBar.border": "#363744", // done - color of side bar border
     "sideBar.foreground": "#b1a192", // color of the side bar text
-    "sideBarSectionHeader.background": "#131419",
-    "sideBarSectionHeader.border": "#363744",
+    "sideBarSectionHeader.background": "#131419", // done - color of side bar section header background
+    "sideBarSectionHeader.border": "#363744", // done - color of side bar section header border
     "sideBarSectionHeader.foreground": "#7391c8",
     "sideBarTitle.foreground": "#7391C8",
     "statusBar.background": "#131419",
