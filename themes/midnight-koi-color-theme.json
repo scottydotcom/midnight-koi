@@ -51,7 +51,7 @@
     "editorLineNumber.foreground": "#8C92AC", // done - color of line numbers in editor
     "editorLink.activeForeground": "#007ACC", // done - color of active links in editor
     "editorMarkerNavigation.background": "#0e4ab905", // done - color of marker navigation background
-    "editorOverviewRuler.border": "#b44a4a", // done - color of scroll bar in terminal
+    "editorOverviewRuler.border": "#131419", // done - color of scroll bar in terminal
     "editorOverviewRuler.errorForeground": "#40706c", // done - color of error in overview ruler
     "editorOverviewRuler.findMatchForeground": "#328c8d", // done - color of find matches in overview ruler
     "editorOverviewRuler.infoForeground": "#FF0000", // done - color of info in overview ruler
@@ -183,10 +183,10 @@
     "terminal.ansiBrightCyan": "#6F8865", // color of repo name in terminal
     "terminal.ansiBrightGreen": "#7391C8",
     "terminal.ansiBrightMagenta": "#4c00ff",
-    "terminal.ansiBrightRed": "#d36969",
+    "terminal.ansiBrightRed": "#69d3ca",
     "terminal.ansiBrightWhite": "#FFD700",
     "terminal.ansiBrightYellow": "#1100ff",
-    "terminal.ansiCyan": "#57586D",
+    "terminal.ansiCyan": "#6d6057",
     "terminal.ansiGreen": "#7391C8",
     "terminal.ansiMagenta": "#FFD700",
     "terminal.ansiRed": "#8892B0",
