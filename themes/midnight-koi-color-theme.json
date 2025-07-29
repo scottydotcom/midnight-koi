@@ -100,30 +100,30 @@
     "menu.background": "#131419f8", // done - color of menu background
     "menu.border": "#13141950", // done - color of menu border
     "menu.foreground": "#CCD6F6", // done - color of text in menu
-    "menu.selectionBackground": "#1C1D24", // done - color of selected item in menu 
+    "menu.selectionBackground": "#1C1D24", // done - color of selected item in menu
     "menu.selectionBorder": "#13141930", // done - color of border around selected item in menu
     "menu.selectionForeground": "#7391C8", // done - color of text in selected item in menu
-    "menu.separatorBackground": "#8C92AC", // done - color of separator in menu  
+    "menu.separatorBackground": "#8C92AC", // done - color of separator in menu
     "menubar.selectionBackground": "#1C1D24", // done - color of selected item in menubar
     "menubar.selectionBorder": "#13141950", // done - color of border around selected item in menubar
     "menubar.selectionForeground": "#7391C8", // done - color of text in selected item in menubar
     "minimap.background": "#131419", // done - color of minimap background
     "minimapGutter.addedBackground": "#8892B0", // done - color of added lines in minimap gutter
-    "minimapGutter.deletedBackground": "#c45c54", // done - color of deleted lines in minimap gutter  
+    "minimapGutter.deletedBackground": "#c45c54", // done - color of deleted lines in minimap gutter
     "minimapGutter.modifiedBackground": "#6aacc6", // done - color of modified lines in minimap gutter
     "minimapSlider.activeBackground": "#7391C8b0", // done - color of active minimap slider background
     "minimapSlider.background": "#7391C880", // done - color of minimap slider background
     "minimapSlider.hoverBackground": "#7391C8a0", // done - color of minimap slider hover background
     "notificationLink.foreground": "#CCD6F6", // done - color of notification links
-    "notifications.background": "#131419",  // done - color of notification background
-    "notifications.foreground": "#7391C8",  // done - color of notification text
+    "notifications.background": "#131419", // done - color of notification background
+    "notifications.foreground": "#7391C8", // done - color of notification text
     "panel.background": "#131419", // done - color of panel background terminal
     "panel.border": "#363744", // done - color of panel border terminal
     "panelTitle.activeBorder": "#ddc6a8", // done - color of active panel title border
     "panelTitle.activeForeground": "#CCD6F6", // done - color of active panel title text
     "panelTitle.inactiveForeground": "#7391C8", // done - color of inactive panel title text
     "peekView.border": "#1a32ac", // done - color of peek view border
-    "peekViewEditor.background": "#7391C805",  // done - color of peek view editor background
+    "peekViewEditor.background": "#7391C805", // done - color of peek view editor background
     "peekViewEditor.matchHighlightBackground": "#13141950", // done - color of peek view editor match highlight background
     "peekViewEditorGutter.background": "#7391C805", // done - color of peek view editor gutter background
     "peekViewResult.background": "#7391C805", // done - color of peek view result background
@@ -133,7 +133,7 @@
     "peekViewTitleDescription.foreground": "#7391C860", // done - color of peek view title description text
     "pickerGroup.foreground": "#131419", // done - color of picker group foreground
     "progressBar.background": "#131419", // done - color of progress bar background
-    "scrollbar.shadow": "#13141900", // done - color of scrollbar shadow 
+    "scrollbar.shadow": "#13141900", // done - color of scrollbar shadow
     "scrollbarSlider.activeBackground": "#7391C860", // done - color of active scrollbar slider background
     "scrollbarSlider.background": "#7391C860", // done - color of scrollbar slider background
     "scrollbarSlider.hoverBackground": "#7391C830", // done - color of scrollbar slider hover background
@@ -156,18 +156,18 @@
     "sideBarSectionHeader.foreground": "#abbadf", // done - color of side bar section header text
     "sideBarTitle.foreground": "#7391C8", // done - color of side bar title text
     "statusBar.background": "#131419", // done - color of status bar background
-    "statusBar.border": "#363744",  // done - color of status bar border
+    "statusBar.border": "#363744", // done - color of status bar border
     "statusBar.debuggingBackground": "#5183B6", // done - color of status bar when debugging
     "statusBar.debuggingForeground": "#838FAB", // done - color of text in status bar when debugging
-    "statusBar.foreground": "#838FAB",  // done - color of text in status bar
+    "statusBar.foreground": "#838FAB", // done - color of text in status bar
     "statusBar.noFolderBackground": "#7391C8", // done - color of status bar when no folder is open
     "statusBarItem.hoverBackground": "#506181", //7391C820
-    "statusBarItem.remoteBackground": "#131419",  // done - color of status bar item when remote 
+    "statusBarItem.remoteBackground": "#131419", // done - color of status bar item when remote
     "statusBarItem.remoteForeground": "#7391C8", // done - color of text in status bar item when remote
-    "tab.activeBackground": "#13141950",  // done - color of active tab background
-    "tab.activeBorder": "#8892b0",  // done - color of active tab border
+    "tab.activeBackground": "#13141950", // done - color of active tab background
+    "tab.activeBorder": "#8892b0", // done - color of active tab border
     "tab.activeForeground": "#CCD6F6", // file tab name when cllicked
-    "tab.activeModifiedBorder": "#131419",  // done - color of active modified tab border
+    "tab.activeModifiedBorder": "#131419", // done - color of active modified tab border
     "tab.border": "#363744", // done - color of tab border
     "tab.inactiveBackground": "#13141920", // done - color of inactive tab background
     "tab.inactiveForeground": "#7391C8", // done - color of inactive tab text
@@ -175,7 +175,7 @@
     "tab.unfocusedActiveBackground": "#13141940", // done - color of unfocused active tab background
     "tab.unfocusedActiveForeground": "#7391C8", // done - color of unfocused active tab text
     "tab.unfocusedInactiveBackground": "#13141910", // done - color of unfocused inactive tab background
-    "tab.unfocusedInactiveForeground": "#7391C87f", // done - color of unfocused inactive tab text            
+    "tab.unfocusedInactiveForeground": "#7391C87f", // done - color of unfocused inactive tab text
     "terminal.ansiBlack": "#363b54", // done - color of black text in terminal
     "terminal.ansiRed": "#f7768e", // done - color of red text in terminal
     "terminal.ansiGreen": "#73daca", // done - color of green text in terminal
@@ -189,9 +189,9 @@
     "terminal.ansiBrightGreen": "#73daca", // done - color of bright green text in terminal
     "terminal.ansiBrightYellow": "#e0af68", // done - color of bright yellow text in terminal
     "terminal.ansiBrightBlue": "#7aa2f7", // done - color of bright blue text in terminal
-    "terminal.ansiBrightMagenta": "#bb9af7",  // done - color of bright magenta text in terminal
+    "terminal.ansiBrightMagenta": "#bb9af7", // done - color of bright magenta text in terminal
     "terminal.ansiBrightCyan": "#5BAF96", // color of repo name in terminal
-    "terminal.ansiBrightWhite": "#acb0d0",  // done - color of bright white text in terminal
+    "terminal.ansiBrightWhite": "#acb0d0", // done - color of bright white text in terminal
     "terminalCursor.background": "#131419", // done - color of terminal cursor background
     "terminalCursor.foreground": "#CCD6F6", // done - color of terminal cursor text
     "terminal.foreground": "#787c99", // color of text in terminal (ex: git add .)
@@ -255,7 +255,7 @@
     {
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#ff6b6b" //invalid code 
+        "foreground": "#ff6b6b" //invalid code
       }
     },
     {
@@ -265,7 +265,7 @@
       }
     },
     {
-  "scope": [
+      "scope": [
         "keyword.control",
         "constant.other.color",
         "punctuation.definition.tag",
@@ -282,7 +282,7 @@
         "entity.name.type.module.js"
       ],
       "settings": {
-        "foreground": "#6195e3" //'import' and 'export' keywords, punctuation, tags 
+        "foreground": "#6195e3" //'import' and 'export' keywords, punctuation, tags
       }
     },
     {
@@ -479,7 +479,7 @@
     {
       "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
       "settings": {
-        "foreground": "#c0caf5" //imported variables and modules 
+        "foreground": "#c0caf5" //imported variables and modules
       }
     },
     {
@@ -489,7 +489,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#6F8865",
+        "foreground": "#7aa2f7", //method names and decorator tags
         "fontStyle": "italic"
       }
     },
@@ -521,37 +521,37 @@
     {
       "scope": ["source.scss keyword.control"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6F8865" //scss keywords such as 'if', 'else', 'for', 'while', 'return'
       }
     },
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#7391C8"
+        "foreground": "#449dab" // color of added text in diff editor and git changes
       }
     },
     {
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#8892B0"
+        "foreground": "#914c54" // color of deleted text in diff editor and git changes
       }
     },
     {
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6183bb" // color of changed text in diff editor and git changes
       }
     },
     {
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#b4f9f8" // color of regular expressions
       }
     },
     {
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#c0caf5" // color of escape characters
       }
     },
     {
@@ -563,32 +563,32 @@
     {
       "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
       "settings": {
-        "foreground": "#7391C8",
+        "foreground": "#f77676", // color of keys in JavaScript objects and unquoted labels
         "fontStyle": "italic"
       }
     },
     {
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#7391C8"
+        "foreground": "#7391C8" // color of property names in JSON files
       }
     },
     {
       "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
       "settings": {
-        "foreground": "#7391C8"
+        "foreground": "#cbe1ff" // color of markdown list items
       }
     },
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#bb9af7" // color of inline code in markdown
       }
     },
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown", "punctuation.definition.raw.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#bb9af7" // color of inline code in markdown
       }
     },
     {
@@ -603,14 +603,14 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#6F8865", // .md text color alt #658788
+        "foreground": "#c1acac", // .md text color alt #658788
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["markup.underline"],
       "settings": {
-        "foreground": "#acda9a", // .md link color
+        "foreground": "#DCC39F", // .md link color
         "fontStyle": "underline"
       }
     },
@@ -623,74 +623,74 @@
     {
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#4e5579" // .md blockquote color
       }
     },
     {
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic" // .md blockquote text style
       }
     },
     {
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6F8865" // .md link text color
       }
     },
     {
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#73daca"
       }
     },
     {
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6F8865" // .md code block text color
       }
     },
     {
       "scope": ["punctuation.definition.raw.markdown", "punctuation.definition.markdown"],
       "settings": {
-        "foreground": "#6de9c0"
+        "foreground": "#a2cabd" // .md code block punctuation color
       }
     },
     {
       "scope": ["variable.language.fenced.markdown"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6F8865" // .md fenced code language color
       }
     },
     {
       "scope": ["meta.separator"],
       "settings": {
-        "foreground": "#A7A8AF",
+        "foreground": "#A7A8AF", // color of separator in markdown tables
         "fontStyle": "bold"
       }
     },
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#6aacc6" // color of info tokens in the editor
       }
     },
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#f8dc81" // color of warning tokens in the editor
       }
     },
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#5586b4"
+        "foreground": "#ff6b6b" // color of error tokens in the editor
       }
     },
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#7a8b78" // color of debug tokens in the editor
       }
     }
   ]
