@@ -2,14 +2,14 @@
   "name": "Midnight Koi",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#131419", // done - bg of src control
-    "activityBar.border": "#363744", // done - divider line in activity bar
-    "activityBar.foreground": "#7391C8", // done - src control icon color
-    "activityBarBadge.background": "#657C6A", // done - badge color in activity bar (soiurce control)
-    "activityBarBadge.foreground": "#ccd6f6", // done - src control notif text color
-    "badge.background": "#ce8080", // done - changes color of badge in src ctrl - alt color: #bd7070
-    "badge.foreground": "#ccd6f6", // done - text color on bades in src ctrl
-    "breadcrumb.activeSelectionForeground": "#ccd6f6", // done - color of selected item in breadcrumb
+    "activityBar.background": "#131419", // bg of src control
+    "activityBar.border": "#363744", // divider line in activity bar
+    "activityBar.foreground": "#7391C8", // src control icon color
+    "activityBarBadge.background": "#657C6A", // badge color in activity bar (soiurce control)
+    "activityBarBadge.foreground": "#ccd6f6", // src control notif text color
+    "badge.background": "#ce8080", // changes color of badge in src ctrl - alt color: #bd7070
+    "badge.foreground": "#ccd6f6", // text color on bades in src ctrl
+    "breadcrumb.activeSelectionForeground": "#ccd6f6", // color of selected item in breadcrumb
     "breadcrumb.background": "#131419", // done - color of breadcrumb file path
     "breadcrumb.focusForeground": "#7391C8", // done - color of focused item in breadcrumb
     "breadcrumb.foreground": "#7391C8", // done - color of breadcrumb text
@@ -228,7 +228,7 @@
         "punctuation.definition.interpolation.begin.bracket.curly.scss"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic" // scss variables and function names
       }
     },
     {
@@ -261,7 +261,7 @@
     {
       "scope": ["Keyword", "Storage"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic" // keywords and storage types
       }
     },
     {
@@ -298,19 +298,19 @@
         "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
-        "foreground": "#7391C8" // array quotes
+        "foreground": "#DCC39F" // array quotes, array commas, and other punctuation
       }
     },
     {
       "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#A7A8AF" //punctuation such as colons, hash tags, ampersans
+        "foreground": "#6195e3" //punctuation such as colons, hash tags, ampersans
       }
     },
     {
       "scope": ["keyword.control"],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold" // keywords such as 'if', 'else', 'for', 'while', 'return'
       }
     },
     {
@@ -323,7 +323,7 @@
         "comment.block.html"
       ],
       "settings": {
-        "foreground": "#7379c8"
+        "foreground": "#8C92AC" // color of comments
       }
     },
     {
@@ -341,13 +341,13 @@
     {
       "scope": ["entity.name.tag.html"],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold " //html tags
       }
     },
     {
       "scope": ["variable.parameter.js", "variable.parameter.keyframe-list.css"],
       "settings": {
-        "foreground": "#CCD6F6" //stuff inside parenthesis
+        "foreground": "#D6B89F" //stuff inside function parenthesis
       }
     },
     {
@@ -359,7 +359,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#9fd5ff", // stuff inside brackets
+        "foreground": "#5083a8", // stuff inside brackets
         "fontStyle": ""
       }
     },
@@ -389,19 +389,19 @@
     {
       "scope": ["entity.name.function", "variable.other.constant.js"],
       "settings": {
-        "foreground": "#abb790" //function names
+        "foreground": "#97c1cc" //function names
       }
     },
     {
       "scope": ["punctuation.definition.string.begin.html", "punctuation.definition.string.end.html"],
       "settings": {
-        "foreground": "#c77567"
+        "foreground": "#DCC39F" //html string quotes
       }
     },
     {
       "scope": ["support.other.variable", "string.other.link", "markup.table"],
       "settings": {
-        "foreground": "#6F8865"
+        "foreground": "#c0cefc" //links and table text
       }
     },
     {
@@ -415,13 +415,13 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#CCD6F6"
+        "foreground": "#bbbbbb" //numbers, units, and other constants
       }
     },
     {
       "scope": ["variable.parameter.function.language.special", "variable.parameter"],
       "settings": {
-        "foreground": "#8892B0"
+        "foreground": "#8892B0" //function parameters
       }
     },
     {
@@ -437,7 +437,7 @@
         "string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#7391C8",
+        "foreground": "#7391C8", //constants, keys, and headings
         "fontStyle": ""
       }
     },
@@ -460,7 +460,7 @@
     {
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#B2CCD6" //css types such as 'color', 'font-size', 'margin', 'padding'
       }
     },
     {
@@ -479,7 +479,7 @@
     {
       "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
       "settings": {
-        "foreground": "#011a63"
+        "foreground": "#c0caf5" //imported variables and modules 
       }
     },
     {
