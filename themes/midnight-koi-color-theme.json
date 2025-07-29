@@ -216,7 +216,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#CCD6F6" //react import brackets
+        "foreground": "#BBBBBB" //react import brackets
       }
     },
     {
@@ -237,25 +237,25 @@
         "punctuation.definition.interpolation.begin.bracket.curly.scss"
       ],
       "settings": {
-        "foreground": "#7391C8"
+        "foreground": "#7391C8" //scss brackets
       }
     },
     {
       "scope": ["constant.other.php"],
       "settings": {
-        "foreground": "#CCD6F6"
+        "foreground": "#CCD6F6" //php constants
       }
     },
     {
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#CCD6F6"
+        "foreground": "#CCD6F6" //css color constants
       }
     },
     {
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#8892B0"
+        "foreground": "#ff6b6b" //invalid code 
       }
     },
     {
@@ -265,7 +265,7 @@
       }
     },
     {
-      "scope": [
+  "scope": [
         "keyword.control",
         "constant.other.color",
         "punctuation.definition.tag",
@@ -282,7 +282,7 @@
         "entity.name.type.module.js"
       ],
       "settings": {
-        "foreground": "#a9c9ff" //'import' and 'export' keywords, punctuation, tags
+        "foreground": "#6195e3" //'import' and 'export' keywords, punctuation, tags 
       }
     },
     {
