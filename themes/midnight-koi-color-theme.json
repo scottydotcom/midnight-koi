@@ -2,208 +2,208 @@
   "name": "Midnight Koi",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#131419", // bg of src control
-    "activityBar.border": "#363744", // divider line in activity bar
-    "activityBar.foreground": "#7391C8", // src control icon color
-    "activityBarBadge.background": "#657C6A", // badge color in activity bar (soiurce control)
-    "activityBarBadge.foreground": "#ccd6f6", // src control notif text color
-    "badge.background": "#ce8080", // changes color of badge in src ctrl - alt color: #bd7070
-    "badge.foreground": "#ccd6f6", // text color on bades in src ctrl
-    "breadcrumb.activeSelectionForeground": "#ccd6f6", // color of selected item in breadcrumb
-    "breadcrumb.background": "#131419", // done - color of breadcrumb file path
-    "breadcrumb.focusForeground": "#7391C8", // done - color of focused item in breadcrumb
-    "breadcrumb.foreground": "#7391C8", // done - color of breadcrumb text
-    "breadcrumbPicker.background": "#131419", // done - bg color of breadcrumb picker
-    "button.background": "#8C92AC", // done - color of button (src ctrl commit)
-    "contrastBorder": "#363744", // done - color of contrast border (lines separating sections)
-    "debugToolBar.background": "#8C92AC", // done - color of debug toolbar
-    "diffEditor.insertedTextBackground": "#7391C815", // done - color of added text in diff editor
-    "diffEditor.removedTextBackground": "#38337920", // done - color of removed text in diff editor
-    "dropdown.background": "#131419", // done - color of dropdown menus (terminal chooser)
-    "dropdown.foreground": "#7391C8", // done - color of text in dropdown menus
-    "dropdown.border": "#8892b0", // done - color of border in dropdown menus
-    "editor.background": "#131419", // done - color of editor background
-    "editor.findMatchBackground": "#00000050", // done - color of highlighted search matches in editor
-    "editor.findMatchBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
-    "editor.findMatchHighlightBackground": "#464a5e93", // done - color of highlighted search matches in editor
-    "editor.findMatchHighlightBorder": "#CCD6F630", // done - color of border around highlighted search matches in editor
-    "editor.foreground": "#BBBBBB", // done - color of text in editor !string
-    "editor.lineHighlightBackground": "#7391C820", // done - color of line highlight in editor
-    "editor.selectionBackground": "#576370c0", // done - color of highlighted text in editor
-    "editor.selectionHighlightBackground": "#ccd6f650", // done - color of highlighted text in editor
-    "editor.selectionHighlightBorder": "#6F8865", // done - color of border around highlighted text in editor
-    "editorBracketMatch.background": "#131419", // done - color of matching brackets in editor
-    "editorBracketMatch.border": "#7191fc", // done - color of border around matching brackets in editor
-    "editorCursor.foreground": "#CCD6F6", // done - color of cursor in editor
-    "editor.placeholder.foreground": "#7391C860", // done - color of placeholder text in editor
-    "editorError.foreground": "#ff0000", // color of error in terminal/underline
-    "editorGroup.border": "#363744", // done - color of border around editor groups
-    "editorGroupHeader.tabsBackground": "#131419", // done - color of editor group header background
-    "editorGutter.addedBackground": "#587dc060", // done - color of added lines in editor gutter
-    "editorGutter.deletedBackground": "#be4343", // done - color of deleted lines in editor gutter
-    "editorGutter.modifiedBackground": "#5fa0b4", // done - color of modified lines in editor gutter
-    "editorHoverWidget.background": "#131419", // done - color of hover widget background
-    "editorHoverWidget.border": "#c0c4cf", // done - color of hover widget border
-    "editorIndentGuide.activeBackground1": "#a59cd8", // done - color of active indent guide in editor
-    "editorIndentGuide.background1": "#363744", // done - color of inactive indent guide in editor
-    "editorInfo.foreground": "#576490", // done - color of info in terminal/underline
-    "editorLineNumber.activeForeground": "#FFB26F", // done - color of active line number in editor
-    "editorLineNumber.foreground": "#8C92AC", // done - color of line numbers in editor
-    "editorLink.activeForeground": "#007ACC", // done - color of active links in editor
-    "editorMarkerNavigation.background": "#0e4ab905", // done - color of marker navigation background
-    "editorOverviewRuler.border": "#131419", // done - color of scroll bar in terminal
-    "editorOverviewRuler.errorForeground": "#40706c", // done - color of error in overview ruler
-    "editorOverviewRuler.findMatchForeground": "#328c8d", // done - color of find matches in overview ruler
-    "editorOverviewRuler.infoForeground": "#FF0000", // done - color of info in overview ruler
-    "editorOverviewRuler.warningForeground": "#FFA500", // done - color of warning in overview ruler
-    "editorRuler.foreground": "#ca3030", // done - color of ruler in editor
-    "editorSuggestWidget.background": "#1c1d24", // done - color of suggest widget background
-    "editorSuggestWidget.border": "#CCD6F610", // done - color of suggest widget border
-    "editorSuggestWidget.foreground": "#d1925f", // done - color of text in suggest widget
-    "editorSuggestWidget.highlightForeground": "#CCD6F6", // done - color of highlighted text in suggest widget
-    "editorSuggestWidget.selectedBackground": "#8C92AC", // done - color of selected item in suggest widget
-    "editorWarning.foreground": "#7391C8", // done - color of warning in terminal/underline
-    "editorWhitespace.foreground": "#7391C840", // done - color of whitespace in editor
-    "editorWidget.background": "#131419", // done - color of editor widget background
-    "editorWidget.border": "#363744", // done - color of editor widget border
-    "editorWidget.resizeBorder": "#131419", // done - color of editor widget resize border
-    "extensionButton.prominentBackground": "#7391C890", // done - color of prominent extension button background
-    "extensionButton.prominentHoverBackground": "#8892B0", // done - color of prominent extension button hover background
-    "focusBorder": "#CCD6F600", // done - color of focus border
-    "gitDecoration.conflictingResourceForeground": "#ff6b6b", // done - color of conflicting resources in git decoration
-    "gitDecoration.deletedResourceForeground": "#c45c54", // done - color of deleted resources in git decoration
-    "gitDecoration.ignoredResourceForeground": "#7a8b78", // done - color of ignored resources in git decoration
-    "gitDecoration.modifiedResourceForeground": "#6aacc6", // done - color of modified resources in git decoration
-    "gitDecoration.untrackedResourceForeground": "#f8dc81", // done - color of untracked resources in git decoration
-    "input.background": "#1C1D24", // done - color of input fields background
-    "input.border": "#CCD6F610", // done - color of input fields border
-    "input.foreground": "#CCD6F6", // done - color of text in input fields
-    "input.placeholderForeground": "#7391C860", // done - color of placeholder text in input fields
-    "inputOption.activeBackground": "#7391C830", // done - color of active input option background
-    "inputOption.activeBorder": "#7391C830", // done - color of active input option border
-    "inputValidation.errorBorder": "#ff9a9a", // done - color of error border in input validation - add 50 to mute the color
-    "inputValidation.infoBorder": "#a0c4ff", // done - color of info border in input validation - add 50 to mute the color
-    "inputValidation.warningBorder": "#ffcc7a", // done - color of warning border in input validation - add 50 to mute the color
-    "list.activeSelectionBackground": "#7391C830", // done - file exploer file selected text color
-    "list.activeSelectionForeground": "#bb906e", // done - file explorer file selected text color
-    "list.focusBackground": "#7391C830", // done - file explorer file hover color (using arrow keys)
-    "list.focusForeground": "#8C92AC", // done - file explorer text color (using arrow keys)
-    "list.highlightForeground": "#ccb197", // done - file explorer highlighted match text color
-    "list.hoverBackground": "#7391C830", // done - file explorer file hover color
-    "list.hoverForeground": "#9e644f", // done - file explorer file hover text color
-    "list.inactiveSelectionBackground": "#131419", // done - file explorer inactive selection background color
-    "list.inactiveSelectionForeground": "#a5a9af", // done - file explorer inactive selection text color
-    "list.warningForeground": "#ff6b6b", //
-    "listFilterWidget.background": "#13141930", // done - color of filter widget background
-    "listFilterWidget.noMatchesOutline": "#13141930", // done - color of no matches outline in filter widget
-    "listFilterWidget.outline": "#13141930", // done - color of outline in filter widget
-    "menu.background": "#131419f8", // done - color of menu background
-    "menu.border": "#13141950", // done - color of menu border
-    "menu.foreground": "#CCD6F6", // done - color of text in menu
-    "menu.selectionBackground": "#1C1D24", // done - color of selected item in menu
-    "menu.selectionBorder": "#13141930", // done - color of border around selected item in menu
-    "menu.selectionForeground": "#7391C8", // done - color of text in selected item in menu
-    "menu.separatorBackground": "#8C92AC", // done - color of separator in menu
-    "menubar.selectionBackground": "#1C1D24", // done - color of selected item in menubar
-    "menubar.selectionBorder": "#13141950", // done - color of border around selected item in menubar
-    "menubar.selectionForeground": "#7391C8", // done - color of text in selected item in menubar
-    "minimap.background": "#131419", // done - color of minimap background
-    "minimapGutter.addedBackground": "#8892B0", // done - color of added lines in minimap gutter
-    "minimapGutter.deletedBackground": "#c45c54", // done - color of deleted lines in minimap gutter
-    "minimapGutter.modifiedBackground": "#6aacc6", // done - color of modified lines in minimap gutter
-    "minimapSlider.activeBackground": "#7391C8b0", // done - color of active minimap slider background
-    "minimapSlider.background": "#7391C880", // done - color of minimap slider background
-    "minimapSlider.hoverBackground": "#7391C8a0", // done - color of minimap slider hover background
-    "notificationLink.foreground": "#CCD6F6", // done - color of notification links
-    "notifications.background": "#131419", // done - color of notification background
-    "notifications.foreground": "#7391C8", // done - color of notification text
-    "panel.background": "#131419", // done - color of panel background terminal
-    "panel.border": "#363744", // done - color of panel border terminal
-    "panelTitle.activeBorder": "#ddc6a8", // done - color of active panel title border
-    "panelTitle.activeForeground": "#CCD6F6", // done - color of active panel title text
-    "panelTitle.inactiveForeground": "#7391C8", // done - color of inactive panel title text
-    "peekView.border": "#1a32ac", // done - color of peek view border
-    "peekViewEditor.background": "#7391C805", // done - color of peek view editor background
-    "peekViewEditor.matchHighlightBackground": "#13141950", // done - color of peek view editor match highlight background
-    "peekViewEditorGutter.background": "#7391C805", // done - color of peek view editor gutter background
-    "peekViewResult.background": "#7391C805", // done - color of peek view result background
-    "peekViewResult.matchHighlightBackground": "#13141950", // done - color of peek view result match highlight background
-    "peekViewResult.selectionBackground": "#13141970", // done - color of peek view result selection background
-    "peekViewTitle.background": "#7391C805", // done - color of peek view title background
-    "peekViewTitleDescription.foreground": "#7391C860", // done - color of peek view title description text
-    "pickerGroup.foreground": "#131419", // done - color of picker group foreground
-    "progressBar.background": "#131419", // done - color of progress bar background
-    "scrollbar.shadow": "#13141900", // done - color of scrollbar shadow
-    "scrollbarSlider.activeBackground": "#7391C860", // done - color of active scrollbar slider background
-    "scrollbarSlider.background": "#7391C860", // done - color of scrollbar slider background
-    "scrollbarSlider.hoverBackground": "#7391C830", // done - color of scrollbar slider hover background
-    "selection.background": "#131419", // done - color of selection background
-    "settings.checkboxBackground": "#131419", // done - color of settings checkbox background
-    "settings.checkboxForeground": "#7391C8", // done - color of settings checkbox text
-    "settings.dropdownBackground": "#131419", // done - color of settings dropdown background
-    "settings.dropdownForeground": "#7391C8", // done - color of settings dropdown text
-    "settings.headerForeground": "#92b1b1", // done - color of settings header text
-    "settings.modifiedItemIndicator": "#131419", // done - color of modified item indicator in settings
-    "settings.numberInputBackground": "#131419", // done - color of settings number input background
-    "settings.numberInputForeground": "#7391C8", // done - color of settings number input text
-    "settings.textInputBackground": "#131419", // done - color of settings text input background
-    "settings.textInputForeground": "#7391C8", // done - color of settings text input text
-    "sideBar.background": "#131419", // done - color of side bar background
-    "sideBar.border": "#363744", // done - color of side bar border
-    "sideBar.foreground": "#b1a192", // color of the side bar text
-    "sideBarSectionHeader.background": "#131419", // done - color of side bar section header background
-    "sideBarSectionHeader.border": "#363744", // done - color of side bar section header border
-    "sideBarSectionHeader.foreground": "#abbadf", // done - color of side bar section header text
-    "sideBarTitle.foreground": "#7391C8", // done - color of side bar title text
-    "statusBar.background": "#131419", // done - color of status bar background
-    "statusBar.border": "#363744", // done - color of status bar border
-    "statusBar.debuggingBackground": "#5183B6", // done - color of status bar when debugging
-    "statusBar.debuggingForeground": "#838FAB", // done - color of text in status bar when debugging
-    "statusBar.foreground": "#838FAB", // done - color of text in status bar
-    "statusBar.noFolderBackground": "#7391C8", // done - color of status bar when no folder is open
-    "statusBarItem.hoverBackground": "#506181", //7391C820
-    "statusBarItem.remoteBackground": "#131419", // done - color of status bar item when remote
-    "statusBarItem.remoteForeground": "#7391C8", // done - color of text in status bar item when remote
-    "tab.activeBackground": "#13141950", // done - color of active tab background
-    "tab.activeBorder": "#8892b0", // done - color of active tab border
-    "tab.activeForeground": "#CCD6F6", // file tab name when cllicked
-    "tab.activeModifiedBorder": "#131419", // done - color of active modified tab border
-    "tab.border": "#363744", // done - color of tab border
-    "tab.inactiveBackground": "#13141920", // done - color of inactive tab background
-    "tab.inactiveForeground": "#7391C8", // done - color of inactive tab text
-    "tab.unfocusedActiveBorder": "#131419", // done - color of unfocused active tab border
-    "tab.unfocusedActiveBackground": "#13141940", // done - color of unfocused active tab background
-    "tab.unfocusedActiveForeground": "#7391C8", // done - color of unfocused active tab text
-    "tab.unfocusedInactiveBackground": "#13141910", // done - color of unfocused inactive tab background
-    "tab.unfocusedInactiveForeground": "#7391C87f", // done - color of unfocused inactive tab text
-    "terminal.ansiBlack": "#363b54", // done - color of black text in terminal
-    "terminal.ansiRed": "#f7768e", // done - color of red text in terminal
-    "terminal.ansiGreen": "#73daca", // done - color of green text in terminal
-    "terminal.ansiYellow": "#e0af68", // done - color of yellow text in terminal
-    "terminal.ansiBlue": "#7aa2f7", // done - color of blue text in terminal
-    "terminal.ansiMagenta": "#bb9af7", // done - color of magenta text in terminal
-    "terminal.ansiCyan": "#5BAF96", // done - color of cyan text in terminal
-    "terminal.ansiWhite": "#787c99", // done - color of white text in terminal
-    "terminal.ansiBrightBlack": "#363b54", // done - color of bright black text in terminal
-    "terminal.ansiBrightRed": "#f7768e", // done - color of bright red text in terminal
-    "terminal.ansiBrightGreen": "#73daca", // done - color of bright green text in terminal
-    "terminal.ansiBrightYellow": "#e0af68", // done - color of bright yellow text in terminal
-    "terminal.ansiBrightBlue": "#7aa2f7", // done - color of bright blue text in terminal
-    "terminal.ansiBrightMagenta": "#bb9af7", // done - color of bright magenta text in terminal
-    "terminal.ansiBrightCyan": "#5BAF96", // color of repo name in terminal
-    "terminal.ansiBrightWhite": "#acb0d0", // done - color of bright white text in terminal
-    "terminalCursor.background": "#131419", // done - color of terminal cursor background
-    "terminalCursor.foreground": "#CCD6F6", // done - color of terminal cursor text
-    "terminal.foreground": "#787c99", // color of text in terminal (ex: git add .)
-    "textLink.activeForeground": "#7dcfff", // done - color of active text links
-    "textLink.foreground": "#6183bb", // done - color of text links
-    "titleBar.activeBackground": "#131419", // done - color of title bar background
-    "titleBar.activeForeground": "#5183B6", // done - color of title bar text
-    "titleBar.border": "#363744", // done - color of title bar border
-    "titleBar.inactiveBackground": "#131419", // done - color of inactive title bar background
-    "titleBar.inactiveForeground": "#5183B6", // done - color of inactive title bar text
-    "tree.indentGuidesStroke": "#363744", // done - color of tree indent guides stroke
-    "widget.shadow": "#13141930" // done - color of widget shadow
+    "activityBar.background": "#131419", 
+    "activityBar.border": "#363744", 
+    "activityBar.foreground": "#7391C8", 
+    "activityBarBadge.background": "#657C6A", 
+    "activityBarBadge.foreground": "#ccd6f6", 
+    "badge.background": "#ce8080", 
+    "badge.foreground": "#ccd6f6", 
+    "breadcrumb.activeSelectionForeground": "#ccd6f6", 
+    "breadcrumb.background": "#131419", 
+    "breadcrumb.focusForeground": "#7391C8", 
+    "breadcrumb.foreground": "#7391C8", 
+    "breadcrumbPicker.background": "#131419", 
+    "button.background": "#8C92AC", 
+    "contrastBorder": "#363744", 
+    "debugToolBar.background": "#8C92AC", 
+    "diffEditor.insertedTextBackground": "#7391C815", 
+    "diffEditor.removedTextBackground": "#38337920", 
+    "dropdown.background": "#131419", 
+    "dropdown.foreground": "#7391C8", 
+    "dropdown.border": "#8892b0", 
+    "editor.background": "#131419", 
+    "editor.findMatchBackground": "#00000050", 
+    "editor.findMatchBorder": "#CCD6F630", 
+    "editor.findMatchHighlightBackground": "#464a5e93", 
+    "editor.findMatchHighlightBorder": "#CCD6F630", 
+    "editor.foreground": "#BBBBBB", 
+    "editor.lineHighlightBackground": "#7391C820", 
+    "editor.selectionBackground": "#576370c0", 
+    "editor.selectionHighlightBackground": "#ccd6f650", 
+    "editor.selectionHighlightBorder": "#6F8865", 
+    "editorBracketMatch.background": "#131419", 
+    "editorBracketMatch.border": "#7191fc", 
+    "editorCursor.foreground": "#CCD6F6", 
+    "editor.placeholder.foreground": "#7391C860", 
+    "editorError.foreground": "#ff0000", 
+    "editorGroup.border": "#363744", 
+    "editorGroupHeader.tabsBackground": "#131419", 
+    "editorGutter.addedBackground": "#587dc060", 
+    "editorGutter.deletedBackground": "#be4343", 
+    "editorGutter.modifiedBackground": "#5fa0b4", 
+    "editorHoverWidget.background": "#131419", 
+    "editorHoverWidget.border": "#c0c4cf", 
+    "editorIndentGuide.activeBackground1": "#a59cd8", 
+    "editorIndentGuide.background1": "#363744", 
+    "editorInfo.foreground": "#576490", 
+    "editorLineNumber.activeForeground": "#FFB26F", 
+    "editorLineNumber.foreground": "#8C92AC", 
+    "editorLink.activeForeground": "#007ACC", 
+    "editorMarkerNavigation.background": "#0e4ab905", 
+    "editorOverviewRuler.border": "#131419", 
+    "editorOverviewRuler.errorForeground": "#40706c", 
+    "editorOverviewRuler.findMatchForeground": "#328c8d", 
+    "editorOverviewRuler.infoForeground": "#FF0000", 
+    "editorOverviewRuler.warningForeground": "#FFA500", 
+    "editorRuler.foreground": "#ca3030", 
+    "editorSuggestWidget.background": "#1c1d24", 
+    "editorSuggestWidget.border": "#CCD6F610", 
+    "editorSuggestWidget.foreground": "#d1925f", 
+    "editorSuggestWidget.highlightForeground": "#CCD6F6", 
+    "editorSuggestWidget.selectedBackground": "#8C92AC", 
+    "editorWarning.foreground": "#7391C8", 
+    "editorWhitespace.foreground": "#7391C840", 
+    "editorWidget.background": "#131419", 
+    "editorWidget.border": "#363744", 
+    "editorWidget.resizeBorder": "#131419", 
+    "extensionButton.prominentBackground": "#7391C890", 
+    "extensionButton.prominentHoverBackground": "#8892B0", 
+    "focusBorder": "#CCD6F600", 
+    "gitDecoration.conflictingResourceForeground": "#ff6b6b", 
+    "gitDecoration.deletedResourceForeground": "#c45c54", 
+    "gitDecoration.ignoredResourceForeground": "#7a8b78", 
+    "gitDecoration.modifiedResourceForeground": "#6aacc6", 
+    "gitDecoration.untrackedResourceForeground": "#f8dc81", 
+    "input.background": "#1C1D24", 
+    "input.border": "#CCD6F610", 
+    "input.foreground": "#CCD6F6", 
+    "input.placeholderForeground": "#7391C860", 
+    "inputOption.activeBackground": "#7391C830", 
+    "inputOption.activeBorder": "#7391C830", 
+    "inputValidation.errorBorder": "#ff9a9a", 
+    "inputValidation.infoBorder": "#a0c4ff", 
+    "inputValidation.warningBorder": "#ffcc7a", 
+    "list.activeSelectionBackground": "#7391C830", 
+    "list.activeSelectionForeground": "#bb906e", 
+    "list.focusBackground": "#7391C830", 
+    "list.focusForeground": "#8C92AC", 
+    "list.highlightForeground": "#ccb197", 
+    "list.hoverBackground": "#7391C830", 
+    "list.hoverForeground": "#9e644f", 
+    "list.inactiveSelectionBackground": "#131419", 
+    "list.inactiveSelectionForeground": "#a5a9af", 
+    "list.warningForeground": "#ff6b6b", 
+    "listFilterWidget.background": "#13141930", 
+    "listFilterWidget.noMatchesOutline": "#13141930", 
+    "listFilterWidget.outline": "#13141930", 
+    "menu.background": "#131419f8", 
+    "menu.border": "#13141950", 
+    "menu.foreground": "#CCD6F6", 
+    "menu.selectionBackground": "#1C1D24", 
+    "menu.selectionBorder": "#13141930", 
+    "menu.selectionForeground": "#7391C8", 
+    "menu.separatorBackground": "#8C92AC", 
+    "menubar.selectionBackground": "#1C1D24", 
+    "menubar.selectionBorder": "#13141950", 
+    "menubar.selectionForeground": "#7391C8", 
+    "minimap.background": "#131419", 
+    "minimapGutter.addedBackground": "#8892B0", 
+    "minimapGutter.deletedBackground": "#c45c54", 
+    "minimapGutter.modifiedBackground": "#6aacc6", 
+    "minimapSlider.activeBackground": "#7391C8b0", 
+    "minimapSlider.background": "#7391C880", 
+    "minimapSlider.hoverBackground": "#7391C8a0", 
+    "notificationLink.foreground": "#CCD6F6", 
+    "notifications.background": "#131419", 
+    "notifications.foreground": "#7391C8", 
+    "panel.background": "#131419", 
+    "panel.border": "#363744", 
+    "panelTitle.activeBorder": "#ddc6a8", 
+    "panelTitle.activeForeground": "#CCD6F6", 
+    "panelTitle.inactiveForeground": "#7391C8", 
+    "peekView.border": "#1a32ac", 
+    "peekViewEditor.background": "#7391C805", 
+    "peekViewEditor.matchHighlightBackground": "#13141950", 
+    "peekViewEditorGutter.background": "#7391C805", 
+    "peekViewResult.background": "#7391C805", 
+    "peekViewResult.matchHighlightBackground": "#13141950", 
+    "peekViewResult.selectionBackground": "#13141970", 
+    "peekViewTitle.background": "#7391C805", 
+    "peekViewTitleDescription.foreground": "#7391C860", 
+    "pickerGroup.foreground": "#131419", 
+    "progressBar.background": "#131419", 
+    "scrollbar.shadow": "#13141900", 
+    "scrollbarSlider.activeBackground": "#7391C860", 
+    "scrollbarSlider.background": "#7391C860", 
+    "scrollbarSlider.hoverBackground": "#7391C830", 
+    "selection.background": "#131419", 
+    "settings.checkboxBackground": "#131419", 
+    "settings.checkboxForeground": "#7391C8", 
+    "settings.dropdownBackground": "#131419", 
+    "settings.dropdownForeground": "#7391C8", 
+    "settings.headerForeground": "#92b1b1", 
+    "settings.modifiedItemIndicator": "#131419", 
+    "settings.numberInputBackground": "#131419", 
+    "settings.numberInputForeground": "#7391C8", 
+    "settings.textInputBackground": "#131419", 
+    "settings.textInputForeground": "#7391C8", 
+    "sideBar.background": "#131419", 
+    "sideBar.border": "#363744", 
+    "sideBar.foreground": "#b1a192", 
+    "sideBarSectionHeader.background": "#131419", 
+    "sideBarSectionHeader.border": "#363744", 
+    "sideBarSectionHeader.foreground": "#abbadf", 
+    "sideBarTitle.foreground": "#7391C8", 
+    "statusBar.background": "#131419", 
+    "statusBar.border": "#363744", 
+    "statusBar.debuggingBackground": "#5183B6", 
+    "statusBar.debuggingForeground": "#838FAB", 
+    "statusBar.foreground": "#838FAB", 
+    "statusBar.noFolderBackground": "#7391C8", 
+    "statusBarItem.hoverBackground": "#506181", 
+    "statusBarItem.remoteBackground": "#131419", 
+    "statusBarItem.remoteForeground": "#7391C8", 
+    "tab.activeBackground": "#13141950", 
+    "tab.activeBorder": "#8892b0", 
+    "tab.activeForeground": "#CCD6F6", 
+    "tab.activeModifiedBorder": "#131419", 
+    "tab.border": "#363744", 
+    "tab.inactiveBackground": "#13141920", 
+    "tab.inactiveForeground": "#7391C8", 
+    "tab.unfocusedActiveBorder": "#131419", 
+    "tab.unfocusedActiveBackground": "#13141940", 
+    "tab.unfocusedActiveForeground": "#7391C8", 
+    "tab.unfocusedInactiveBackground": "#13141910", 
+    "tab.unfocusedInactiveForeground": "#7391C87f", 
+    "terminal.ansiBlack": "#363b54", 
+    "terminal.ansiRed": "#f7768e", 
+    "terminal.ansiGreen": "#73daca", 
+    "terminal.ansiYellow": "#e0af68", 
+    "terminal.ansiBlue": "#7aa2f7", 
+    "terminal.ansiMagenta": "#bb9af7", 
+    "terminal.ansiCyan": "#5BAF96", 
+    "terminal.ansiWhite": "#787c99", 
+    "terminal.ansiBrightBlack": "#363b54", 
+    "terminal.ansiBrightRed": "#f7768e", 
+    "terminal.ansiBrightGreen": "#73daca", 
+    "terminal.ansiBrightYellow": "#e0af68", 
+    "terminal.ansiBrightBlue": "#7aa2f7", 
+    "terminal.ansiBrightMagenta": "#bb9af7", 
+    "terminal.ansiBrightCyan": "#5BAF96", 
+    "terminal.ansiBrightWhite": "#acb0d0", 
+    "terminalCursor.background": "#131419", 
+    "terminalCursor.foreground": "#CCD6F6", 
+    "terminal.foreground": "#787c99", 
+    "textLink.activeForeground": "#7dcfff", 
+    "textLink.foreground": "#6183bb", 
+    "titleBar.activeBackground": "#131419", 
+    "titleBar.activeForeground": "#5183B6", 
+    "titleBar.border": "#363744", 
+    "titleBar.inactiveBackground": "#131419", 
+    "titleBar.inactiveForeground": "#5183B6", 
+    "tree.indentGuidesStroke": "#363744", 
+    "widget.shadow": "#13141930" 
   },
   "tokenColors": [
     {
@@ -216,7 +216,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#BBBBBB" //react import brackets
+        "foreground": "#BBBBBB" 
       }
     },
     {
@@ -228,7 +228,7 @@
         "punctuation.definition.interpolation.begin.bracket.curly.scss"
       ],
       "settings": {
-        "fontStyle": "italic" // scss variables and function names
+        "fontStyle": "italic" 
       }
     },
     {
@@ -237,31 +237,31 @@
         "punctuation.definition.interpolation.begin.bracket.curly.scss"
       ],
       "settings": {
-        "foreground": "#7391C8" //scss brackets
+        "foreground": "#7391C8" 
       }
     },
     {
       "scope": ["constant.other.php"],
       "settings": {
-        "foreground": "#CCD6F6" //php constants
+        "foreground": "#CCD6F6" 
       }
     },
     {
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#CCD6F6" //css color constants
+        "foreground": "#CCD6F6" 
       }
     },
     {
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#ff6b6b" //invalid code
+        "foreground": "#ff6b6b" 
       }
     },
     {
       "scope": ["Keyword", "Storage"],
       "settings": {
-        "fontStyle": "italic" // keywords and storage types
+        "fontStyle": "italic" 
       }
     },
     {
@@ -282,7 +282,7 @@
         "entity.name.type.module.js"
       ],
       "settings": {
-        "foreground": "#6195e3" //'import' and 'export' keywords, punctuation, tags
+        "foreground": "#6195e3" 
       }
     },
     {
@@ -298,19 +298,19 @@
         "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
-        "foreground": "#DCC39F" // array quotes, array commas, and other punctuation
+        "foreground": "#DCC39F" 
       }
     },
     {
       "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#6195e3" //punctuation such as colons, hash tags, ampersans
+        "foreground": "#6195e3" 
       }
     },
     {
       "scope": ["keyword.control"],
       "settings": {
-        "fontStyle": "bold" // keywords such as 'if', 'else', 'for', 'while', 'return'
+        "fontStyle": "bold" 
       }
     },
     {
@@ -323,31 +323,31 @@
         "comment.block.html"
       ],
       "settings": {
-        "foreground": "#8C92AC" // color of comments
+        "foreground": "#8C92AC" 
       }
     },
     {
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#BBBBBB" //basic html font 6F8865
+        "foreground": "#BBBBBB" 
       }
     },
     {
       "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
       "settings": {
-        "foreground": "#7391C8" //meta tags "<main>
+        "foreground": "#7391C8" 
       }
     },
     {
       "scope": ["entity.name.tag.html"],
       "settings": {
-        "fontStyle": "bold " //html tags
+        "fontStyle": "bold " 
       }
     },
     {
       "scope": ["variable.parameter.js", "variable.parameter.keyframe-list.css"],
       "settings": {
-        "foreground": "#D6B89F" //stuff inside function parenthesis
+        "foreground": "#D6B89F" 
       }
     },
     {
@@ -359,7 +359,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#5083a8", // stuff inside brackets
+        "foreground": "#5083a8", 
         "fontStyle": ""
       }
     },
@@ -383,25 +383,25 @@
         "source.sass keyword.control"
       ],
       "settings": {
-        "foreground": "#76baa8" //stuff insice quotes, and function names
+        "foreground": "#76baa8" 
       }
     },
     {
       "scope": ["entity.name.function", "variable.other.constant.js"],
       "settings": {
-        "foreground": "#97c1cc" //function names
+        "foreground": "#97c1cc" 
       }
     },
     {
       "scope": ["punctuation.definition.string.begin.html", "punctuation.definition.string.end.html"],
       "settings": {
-        "foreground": "#DCC39F" //html string quotes
+        "foreground": "#DCC39F" 
       }
     },
     {
       "scope": ["support.other.variable", "string.other.link", "markup.table"],
       "settings": {
-        "foreground": "#c0cefc" //links and table text
+        "foreground": "#c0cefc" 
       }
     },
     {
@@ -415,13 +415,13 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#bbbbbb" //numbers, units, and other constants
+        "foreground": "#bbbbbb" 
       }
     },
     {
       "scope": ["variable.parameter.function.language.special", "variable.parameter"],
       "settings": {
-        "foreground": "#8892B0" //function parameters
+        "foreground": "#8892B0" 
       }
     },
     {
@@ -437,7 +437,7 @@
         "string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#7391C8", //constants, keys, and headings
+        "foreground": "#7391C8", 
         "fontStyle": ""
       }
     },
@@ -454,13 +454,13 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#7391C8" //component colors "<FadeAnimation />"
+        "foreground": "#7391C8" 
       }
     },
     {
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6" //css types such as 'color', 'font-size', 'margin', 'padding'
+        "foreground": "#B2CCD6" 
       }
     },
     {
@@ -473,13 +473,13 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#6eb1a0" //css property names
+        "foreground": "#6eb1a0" 
       }
     },
     {
       "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
       "settings": {
-        "foreground": "#c0caf5" //imported variables and modules
+        "foreground": "#c0caf5" 
       }
     },
     {
@@ -489,16 +489,16 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#7aa2f7", //method names and decorator tags
+        "foreground": "#7aa2f7", 
         "fontStyle": "italic"
       }
     },
-    // {
-    //   "scope": ["entity.other.attribute-name", "support.function"],
-    //   "settings": {
-    //     "foreground": "#76baa8" //classnames, id names, attributes (target/rel)
-    //   }
-    // },
+    
+    
+    
+    
+    
+    
     {
       "scope": [
         "entity.other.attribute-name.id",
@@ -515,43 +515,43 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#DEB887" // array declirations (title:, description:), classnames, id names,
+        "foreground": "#DEB887" 
       }
     },
     {
       "scope": ["source.scss keyword.control"],
       "settings": {
-        "foreground": "#6F8865" //scss keywords such as 'if', 'else', 'for', 'while', 'return'
+        "foreground": "#6F8865" 
       }
     },
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#449dab" // color of added text in diff editor and git changes
+        "foreground": "#449dab" 
       }
     },
     {
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#914c54" // color of deleted text in diff editor and git changes
+        "foreground": "#914c54" 
       }
     },
     {
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#6183bb" // color of changed text in diff editor and git changes
+        "foreground": "#6183bb" 
       }
     },
     {
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#b4f9f8" // color of regular expressions
+        "foreground": "#b4f9f8" 
       }
     },
     {
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#c0caf5" // color of escape characters
+        "foreground": "#c0caf5" 
       }
     },
     {
@@ -563,32 +563,32 @@
     {
       "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
       "settings": {
-        "foreground": "#f77676", // color of keys in JavaScript objects and unquoted labels
+        "foreground": "#f77676", 
         "fontStyle": "italic"
       }
     },
     {
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#7391C8" // color of property names in JSON files
+        "foreground": "#7391C8" 
       }
     },
     {
       "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
       "settings": {
-        "foreground": "#cbe1ff" // color of markdown list items
+        "foreground": "#cbe1ff" 
       }
     },
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#bb9af7" // color of inline code in markdown
+        "foreground": "#bb9af7" 
       }
     },
     {
       "scope": ["text.html.markdown markup.inline.raw.markdown", "punctuation.definition.raw.markdown"],
       "settings": {
-        "foreground": "#bb9af7" // color of inline code in markdown
+        "foreground": "#bb9af7" 
       }
     },
     {
@@ -603,14 +603,14 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#c1acac", // .md text color alt #658788
+        "foreground": "#c1acac", 
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["markup.underline"],
       "settings": {
-        "foreground": "#DCC39F", // .md link color
+        "foreground": "#DCC39F", 
         "fontStyle": "underline"
       }
     },
@@ -623,19 +623,19 @@
     {
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#4e5579" // .md blockquote color
+        "foreground": "#4e5579" 
       }
     },
     {
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic" // .md blockquote text style
+        "fontStyle": "italic" 
       }
     },
     {
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#6F8865" // .md link text color
+        "foreground": "#6F8865" 
       }
     },
     {
@@ -647,50 +647,50 @@
     {
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#6F8865" // .md code block text color
+        "foreground": "#6F8865" 
       }
     },
     {
       "scope": ["punctuation.definition.raw.markdown", "punctuation.definition.markdown"],
       "settings": {
-        "foreground": "#a2cabd" // .md code block punctuation color
+        "foreground": "#a2cabd" 
       }
     },
     {
       "scope": ["variable.language.fenced.markdown"],
       "settings": {
-        "foreground": "#6F8865" // .md fenced code language color
+        "foreground": "#6F8865" 
       }
     },
     {
       "scope": ["meta.separator"],
       "settings": {
-        "foreground": "#A7A8AF", // color of separator in markdown tables
+        "foreground": "#A7A8AF", 
         "fontStyle": "bold"
       }
     },
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#6aacc6" // color of info tokens in the editor
+        "foreground": "#6aacc6" 
       }
     },
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#f8dc81" // color of warning tokens in the editor
+        "foreground": "#f8dc81" 
       }
     },
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#ff6b6b" // color of error tokens in the editor
+        "foreground": "#ff6b6b" 
       }
     },
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#7a8b78" // color of debug tokens in the editor
+        "foreground": "#7a8b78" 
       }
     }
   ]
