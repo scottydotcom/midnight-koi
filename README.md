@@ -19,10 +19,10 @@ You can further customize the theme by modifying your settings in settings.json.
 ## Javascript Example
 ![Javascript](img/Javascript.png)
 ## Python Example
-![React](img/Python.png)
+![Python](img/Python.png)
 ## HTML Example
-![React](img/HTML.png)
+![HTML](img/HTML.png)
 ## CSS Example
-![React](img/HTML.png)
+![CSS](img/HTML.png)
 ## README Example
-![React](img/README.png)
+![README](img/README.png)
