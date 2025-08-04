@@ -1,16 +1,28 @@
-# midnight-koi README
+# midnight-koi 
 
-## Working with Markdown
+a tranquil and calming theme designed for developers who prefer a dark interface while coding. This theme aims to reduce eye strain and enhance focus, providing a peaceful coding environment.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Calming Color Palette: Soft colors that are easy on the eyes.
+- Syntax Highlighting: Clear and distinct highlighting for various programming languages.
+- Minimalistic Design: A clean and uncluttered interface to help you concentrate on your code.
+- Customizable: Easily adjustable settings to fit your personal preferences.
 
-## For more information
+### Customization
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+You can further customize the theme by modifying your settings in settings.json. For example, you can adjust the font size, line height, and other editor settings to enhance your experience.
 
-**Enjoy!**
+## React example
+
+![React](img/React.png)
+## Javascript Example
+![Javascript](img/Javascript.png)
+## Python Example
+![React](img/Python.png)
+## HTML Example
+![React](img/HTML.png)
+## CSS Example
+![React](img/HTML.png)
+## README Example
+![React](img/README.png)
