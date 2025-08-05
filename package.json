@@ -1,8 +1,19 @@
 {
   "name": "midnight-koi",
-  "displayName": "midnight-koi",
+  "displayName": "Midnight Koi",
   "description": "cozy dark mode theme made by @scottydotcom",
   "version": "0.0.1",
+  "publisher": "scottydotcom-midnight-koi-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottydotcom/midnight-koi"
+  },
+  "keywords": [
+    "dark theme",
+    "cozy theme",
+    "scottydotcom",
+    "blue and green theme"
+  ],
   "engines": {
     "vscode": "^1.98.0"
   },
