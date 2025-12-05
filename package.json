@@ -1,9 +1,9 @@
 {
-  "name": "midnight-koi",
+  "name": "scottydotcom-dark-theme",
   "displayName": "Midnight Koi",
   "description": "cozy dark mode theme made by @scottydotcom",
   "version": "0.2.0",
-  "publisher": "scottydotcom-midnight-koi-theme",
+  "publisher": "scottydotcom",
   "icon": "img/logo.png",
   "repository": {
     "type": "git",
@@ -13,7 +13,19 @@
     "dark theme",
     "cozy theme",
     "scottydotcom",
-    "blue and green theme"
+    "blue and green theme",
+    "night mode",
+    "relaxing colors",
+    "minimalist design",
+    "ocean-inspired",
+    "forest aesthetic",
+    "midnight vibe",
+    "personalized theme",
+    "calm palette",
+    "nature tones",
+    "soft glow",
+    "elegant dark",
+    "serene atmosphere"
   ],
   "engines": {
     "vscode": "^1.98.0"
